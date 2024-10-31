@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="/static/style.css">
+        <script src="https://unpkg.com/vue@3"></script> 
+        <title>FrontPassord</title>
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+              if (performance.getEntriesByType("navigation")[0].type === "back_forward") {
+                window.location.reload(true);
+              }
+            });
+        </script>
+    </head>
+
+    <body>
+        <center>
+            <img src="static/Front_symbol_black.png" width="110" height="60">
+            <!-- <h1>Front Passord</h1> -->
+            <div id="dashboard-box">
+                <div class="input-group" id="top-input">
+                <label for="userInput">Selskapsnavn:</label>
+                <input type="text" id="userInput" name="selskapsnavn" class="output" maxlength="50">
+                <button onclick="updateContent()">Søk</button>
+                <button id="nybedrift" onclick="legg_til_ny_bedrift()">Ny info</button>
+            </div>
+
+                <form id="passwordForm" action="/updatedata" method="post">
+                </form>
+                <!-- Logout Button -->
+                <button onclick="location.href='/logout'" class="logout-btn">Logg ut</button>
+            </div>
+
+        </center> 
+        
+
+        <script src="/static/app.js"></script>
+    </body>
+</html>

@@ -1,0 +1,1600 @@
+FilipSH logged in; 2024-04-02 11:58:01.844388
+FilipSH got data for: Booknordics; 2024-04-02 11:58:13.703472
+FilipSH updated data for: Booknordics; 2024-04-02 11:58:30.525397FilipSH successfully logged out; 2024-04-02 11:58:32.941019ha@frontinnovation.no logged in; 2024-04-02 12:01:10.667840
+ha@frontinnovation.no got data for: Front Innovation; 2024-04-02 12:01:20.431736
+ha@frontinnovation.no updated data for: Front Innovation; 2024-04-02 12:01:33.107072
+ha@frontinnovation.no successfully logged out; 2024-04-02 12:01:35.582251
+FilipSH successfully logged in; 2024-04-02 12:05:10.831558
+FilipSH successfully logged out; 2024-04-02 12:05:16.374533
+FilipSH successfully logged in; 2024-04-02 12:07:31.189951
+FilipSH successfully logged out; 2024-04-02 12:07:33.815194
+ha@frontinnovation.no successfully logged in; 2024-04-02 12:09:43.003076
+ha@frontinnovation.no successfully logged out; 2024-04-02 12:09:44.881961
+FilipSH successfully logged in; 2024-04-03 16:01:50.887156
+FilipSH got data for: Scalemem; 2024-04-03 16:02:15.606060
+FilipSH updated data for: Scalemem; 2024-04-03 16:02:43.406832
+FilipSH got data for: ; 2024-04-03 16:02:44.707527
+FilipSH got data for: Scalemem; 2024-04-03 16:02:45.888788
+FilipSH successfully logged out; 2024-04-03 16:02:48.471763
+FilipSH successfully logged in; 2024-04-03 16:03:39.634409
+FilipSH got data for: Scalemem; 2024-04-03 16:03:41.905256
+FilipSH got data for: ; 2024-04-03 16:03:47.897340
+FilipSH got data for: DetteErPassordetTi; 2024-04-03 16:03:48.276264
+FilipSH got data for: DetteErPassordetTi; 2024-04-03 16:03:48.312157
+FilipSH got data for: ; 2024-04-03 16:03:50.312649
+FilipSH got data for: DetteErPassordetTi; 2024-04-03 16:03:51.054569
+FilipSH got data for: ; 2024-04-03 16:03:51.405983
+FilipSH got data for: Scalemem; 2024-04-03 16:03:51.773485
+FilipSH got data for: Scalemem; 2024-04-03 16:03:52.030304
+FilipSH updated data for: Scalemem; 2024-04-03 16:04:00.909866
+FilipSH got data for: S; 2024-04-03 16:04:02.351240
+FilipSH got data for: S; 2024-04-03 16:04:02.371112
+FilipSH got data for: Sc; 2024-04-03 16:04:02.619441
+FilipSH got data for: Scal; 2024-04-03 16:04:02.784859
+FilipSH got data for: Scal; 2024-04-03 16:04:02.878889
+FilipSH got data for: Scale; 2024-04-03 16:04:02.957368
+FilipSH got data for: Scalemem; 2024-04-03 16:04:03.685498
+FilipSH got data for: ; 2024-04-03 16:04:07.021145
+FilipSH got data for: helloworld; 2024-04-03 16:04:07.375145
+FilipSH got data for: helloworld; 2024-04-03 16:04:07.432185
+FilipSH got data for: ; 2024-04-03 16:04:09.209705
+FilipSH successfully logged out; 2024-04-03 16:04:11.671306
+FilipSH successfully logged in; 2024-04-04 09:05:06.814171
+FilipSH successfully logged out; 2024-04-04 09:05:09.567049
+Front successfully logged in; 2024-04-04 10:33:24.917027
+Front successfully logged out; 2024-04-04 10:33:27.982822
+Front tried to log in, but is not verified; 2024-04-04 10:34:27.079956
+Front successfully logged in; 2024-04-04 10:34:33.839390
+Front successfully logged out; 2024-04-04 10:34:35.956984
+FilipSH successfully logged in; 2024-04-05 09:58:17.468484
+FilipSH successfully logged out; 2024-04-05 09:58:29.588044
+FilipSH successfully logged in; 2024-04-05 09:58:40.731885
+FilipSH got data for: Scalemem; 2024-04-05 09:58:43.445129
+FilipSH got data for: helloworld; 2024-04-05 09:59:33.585271
+FilipSH got data for: helloworld; 2024-04-05 09:59:33.633800
+FilipSH got data for: Scalemem; 2024-04-05 09:59:36.888147
+FilipSH got data for: Scalemem; 2024-04-05 09:59:36.936136
+FilipSH updated data for: Scalemem; 2024-04-05 09:59:51.192994
+FilipSH got data for: Scalemem; 2024-04-05 09:59:53.863981
+FilipSH got data for: Passordforscalemem2024; 2024-04-05 09:59:58.230436
+FilipSH got data for: Passordforscalemem2024; 2024-04-05 09:59:58.319434
+FilipSH got data for: ; 2024-04-05 10:00:04.068120
+FilipSH got data for: ; 2024-04-05 10:00:05.043808
+FilipSH got data for: Uniscale; 2024-04-05 10:00:08.107592
+FilipSH got data for: ; 2024-04-05 10:00:12.878397
+FilipSH got data for: F; 2024-04-05 10:00:13.476812
+FilipSH got data for: F; 2024-04-05 10:00:13.497901
+FilipSH got data for: Fro; 2024-04-05 10:00:13.748405
+FilipSH got data for: Fron; 2024-04-05 10:00:13.873665
+FilipSH got data for: Front; 2024-04-05 10:00:13.902328
+FilipSH got data for: Front; 2024-04-05 10:00:13.986953
+FilipSH got data for: Front; 2024-04-05 10:00:14.089530
+FilipSH got data for: Front I; 2024-04-05 10:00:14.289374
+FilipSH got data for: Front I; 2024-04-05 10:00:14.327315
+FilipSH got data for: Front In; 2024-04-05 10:00:14.416059
+FilipSH got data for: Front Inn; 2024-04-05 10:00:14.535864
+FilipSH got data for: Front Innovation; 2024-04-05 10:00:15.394475
+FilipSH got data for: Front1234; 2024-04-05 10:00:56.806926
+FilipSH got data for: Front1234; 2024-04-05 10:00:56.845997
+FilipSH got data for: Front Innovation; 2024-04-05 10:00:58.176298
+FilipSH got data for: Front Innovation; 2024-04-05 10:00:58.213957
+FilipSH successfully logged out; 2024-04-05 10:01:01.444635
+FilipSH successfully logged in; 2024-04-05 10:01:56.806970
+FilipSH got data for: Scalemem; 2024-04-05 10:01:59.262460
+FilipSH successfully logged out; 2024-04-05 10:02:57.613350
+FilipSH successfully logged in; 2024-04-05 10:04:07.116894
+FilipSH successfully logged in; 2024-04-05 10:06:40.581839
+FilipSH got data for: Front Innovation; 2024-04-05 10:06:43.212254
+FilipSH got data for: Front1234; 2024-04-05 10:06:47.306198
+FilipSH got data for: Front1234; 2024-04-05 10:06:47.339237
+FilipSH got data for: Front Innovation; 2024-04-05 10:06:48.153727
+FilipSH got data for: Front Innovation; 2024-04-05 10:06:48.192802
+FilipSH successfully logged out; 2024-04-05 10:06:56.565888
+FilipSH successfully logged in; 2024-04-05 10:09:14.411855
+FilipSH got data for: scalemem; 2024-04-05 10:09:36.034032
+FilipSH got data for: scalemem; 2024-04-05 10:09:45.833797
+FilipSH got data for: scalemem; 2024-04-05 10:09:52.461011
+FilipSH got data for: Scalemem; 2024-04-05 10:10:00.831710
+FilipSH got data for: scalemem; 2024-04-05 10:10:27.348436
+FilipSH got data for: Scalemem; 2024-04-05 10:10:37.526106
+FilipSH successfully logged out; 2024-04-05 10:10:44.573935
+ha@frontinnovation.no successfully logged in; 2024-04-05 11:38:34.635806
+ha@frontinnovation.no got data for: Scalemem; 2024-04-05 11:38:39.513118
+ha@frontinnovation.no got data for: Passordforscalemem2024; 2024-04-05 11:38:49.149280
+ha@frontinnovation.no got data for: Passordforscalemem2024; 2024-04-05 11:38:49.160836
+ha@frontinnovation.no got data for: Scalemem; 2024-04-05 11:38:53.596180
+ha@frontinnovation.no got data for: Scalemem; 2024-04-05 11:38:53.609167
+ha@frontinnovation.no updated data for: Scalemem; 2024-04-05 11:39:03.836361
+ha@frontinnovation.no got data for: Scalemem; 2024-04-05 11:39:06.369935
+ha@frontinnovation.no got data for: FFFFFFFFFF; 2024-04-05 11:39:10.522169
+ha@frontinnovation.no got data for: FFFFFFFFFF; 2024-04-05 11:39:10.564283
+ha@frontinnovation.no got data for: Scalemem; 2024-04-05 11:39:16.485855
+ha@frontinnovation.no got data for: Scalemem; 2024-04-05 11:39:16.521412
+ha@frontinnovation.no successfully logged out; 2024-04-05 11:39:35.704016
+FilipSH successfully logged in; 2024-04-05 12:52:32.997260
+FilipSH successfully logged out; 2024-04-05 12:52:35.434036
+FilipSH tried to log in, but is not verified; 2024-04-05 13:46:04.495561
+FilipSH successfully logged in; 2024-04-05 13:46:10.098139
+FilipSH got data for: Scalemem; 2024-04-05 13:46:13.651685
+FilipSH updated data for: Scalemem; 2024-04-05 13:46:23.509174
+FilipSH successfully logged out; 2024-04-05 13:46:25.120406
+FilipSH successfully logged in; 2024-04-05 14:33:26.103857
+FilipSH got data for: S; 2024-04-05 14:33:28.812765
+FilipSH got data for: S; 2024-04-05 14:33:28.841930
+FilipSH got data for: Sc; 2024-04-05 14:33:29.027912
+FilipSH got data for: Sca; 2024-04-05 14:33:29.242413
+FilipSH got data for: Scal; 2024-04-05 14:33:29.305055
+FilipSH got data for: Scale; 2024-04-05 14:33:29.414663
+FilipSH got data for: Scalemem; 2024-04-05 14:33:30.272493
+FilipSH got data for: Scalemem; 2024-04-05 14:33:35.449372
+FilipSH got data for: ; 2024-04-05 14:33:36.530384
+FilipSH got data for: ScalememSittPassord; 2024-04-05 14:33:36.950856
+FilipSH got data for: ScalememSittPassord; 2024-04-05 14:33:36.964184
+FilipSH got data for: S; 2024-04-05 14:33:38.836634
+FilipSH got data for: S; 2024-04-05 14:33:38.849641
+FilipSH got data for: Sc; 2024-04-05 14:33:39.078907
+FilipSH got data for: Sca; 2024-04-05 14:33:39.270449
+FilipSH got data for: Scal; 2024-04-05 14:33:39.397682
+FilipSH got data for: Scale; 2024-04-05 14:33:39.482660
+FilipSH got data for: Scalem; 2024-04-05 14:33:39.600681
+FilipSH got data for: Scalemem; 2024-04-05 14:33:39.694982
+FilipSH got data for: Scalemem; 2024-04-05 14:33:39.775180
+FilipSH updated data for: Scalemem; 2024-04-05 14:33:49.302597
+FilipSH got data for: Scalemem; 2024-04-05 14:33:50.954253
+FilipSH updated data for: Scalemem; 2024-04-05 14:34:04.877832
+FilipSH successfully logged out; 2024-04-05 14:34:05.950822
+FilipSH successfully logged in; 2024-04-05 14:50:24.627580
+FilipSH got data for: S; 2024-04-05 14:50:29.040743
+FilipSH got data for: S; 2024-04-05 14:50:29.053805
+FilipSH got data for: Sc; 2024-04-05 14:50:29.269309
+FilipSH got data for: Scal; 2024-04-05 14:50:29.518291
+FilipSH got data for: Scal; 2024-04-05 14:50:29.594794
+FilipSH got data for: Scale; 2024-04-05 14:50:29.709984
+FilipSH got data for: Scalem; 2024-04-05 14:50:30.613218
+FilipSH got data for: Scalemem; 2024-04-05 14:50:30.677108
+FilipSH got data for: Scalemem; 2024-04-05 14:50:30.769795
+FilipSH updated data for: Scalemem; 2024-04-05 14:50:42.782217
+FilipSH got data for: S; 2024-04-05 14:50:43.973373
+FilipSH got data for: S; 2024-04-05 14:50:43.986076
+FilipSH got data for: Sc; 2024-04-05 14:50:44.210536
+FilipSH got data for: Sca; 2024-04-05 14:50:44.422872
+FilipSH got data for: Scal; 2024-04-05 14:50:44.504150
+FilipSH got data for: Scalem; 2024-04-05 14:50:44.613188
+FilipSH got data for: Scalem; 2024-04-05 14:50:44.683952
+FilipSH got data for: Scalemem; 2024-04-05 14:50:44.744808
+FilipSH got data for: Scalemem; 2024-04-05 14:50:44.793454
+FilipSH successfully logged in; 2024-04-05 14:51:21.389450
+FilipSH got data for: Scalemem; 2024-04-05 14:51:24.952671
+FilipSH successfully logged out; 2024-04-05 14:51:27.570807
+FilipSH successfully logged in; 2024-04-05 15:09:12.250344
+FilipSH got data for: a; 2024-04-05 15:09:16.131647
+FilipSH got data for: ab; 2024-04-05 15:09:16.305466
+FilipSH got data for: abc; 2024-04-05 15:09:16.512792
+FilipSH got data for: abcd; 2024-04-05 15:09:16.707208
+FilipSH got data for: abcde; 2024-04-05 15:09:16.991128
+FilipSH got data for: abcdef; 2024-04-05 15:09:17.523776
+FilipSH got data for: abcdefg; 2024-04-05 15:09:17.887681
+FilipSH got data for: abcdefgh; 2024-04-05 15:09:18.228506
+FilipSH got data for: abcdefghi; 2024-04-05 15:09:18.683399
+FilipSH got data for: abcdefghij; 2024-04-05 15:09:18.936637
+FilipSH got data for: abcdefghijk; 2024-04-05 15:09:19.267851
+FilipSH got data for: abcdefghijkl; 2024-04-05 15:09:19.567995
+FilipSH got data for: abcdefghijklm; 2024-04-05 15:09:20.159083
+FilipSH got data for: abcdefghijklmn; 2024-04-05 15:09:20.469719
+FilipSH got data for: abcdefghijklmno; 2024-04-05 15:09:20.873689
+FilipSH got data for: abcdefghijklmnop; 2024-04-05 15:09:21.171092
+FilipSH got data for: abcdefghijklmnopq; 2024-04-05 15:09:21.830927
+FilipSH got data for: abcdefghijklmnopqr; 2024-04-05 15:09:22.184511
+FilipSH got data for: abcdefghijklmnopqrs; 2024-04-05 15:09:22.621912
+FilipSH got data for: abcdefghijklmnopqrst; 2024-04-05 15:09:22.937129
+FilipSH got data for: abcdefghijklmnopqrstu; 2024-04-05 15:09:23.245761
+FilipSH got data for: abcdefghijklmnopqrstuv; 2024-04-05 15:09:23.534432
+FilipSH got data for: abcdefghijklmnopqrstuvw; 2024-04-05 15:09:23.986327
+FilipSH got data for: abcdefghijklmnopqrstuvwx; 2024-04-05 15:09:24.537152
+FilipSH got data for: abcdefghijklmnopqrstuvwxy; 2024-04-05 15:09:24.930706
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz; 2024-04-05 15:09:25.504630
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz�; 2024-04-05 15:09:26.375361
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz��; 2024-04-05 15:09:26.623691
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���; 2024-04-05 15:09:27.316242
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:09:28.705838
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���12; 2024-04-05 15:09:29.584263
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���123; 2024-04-05 15:09:29.946995
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234; 2024-04-05 15:09:30.350242
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���12345; 2024-04-05 15:09:33.521686
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���123456; 2024-04-05 15:09:33.798713
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567; 2024-04-05 15:09:34.052662
+FilipSH updated data for: abcdefghijklmnopqrstuvwxyz���1234567; 2024-04-05 15:10:02.508594
+FilipSH got data for: a; 2024-04-05 15:10:14.508838
+FilipSH got data for: ab; 2024-04-05 15:10:15.728613
+FilipSH got data for: abc; 2024-04-05 15:10:17.006505
+FilipSH got data for: abcd; 2024-04-05 15:10:17.288959
+FilipSH got data for: abcde; 2024-04-05 15:10:17.471117
+FilipSH got data for: abcdef; 2024-04-05 15:10:17.640908
+FilipSH got data for: abcdefg; 2024-04-05 15:10:17.989657
+FilipSH got data for: abcdefgh; 2024-04-05 15:10:18.199624
+FilipSH got data for: abcdefghi; 2024-04-05 15:10:18.621684
+FilipSH got data for: abcdefghik; 2024-04-05 15:10:18.784198
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567; 2024-04-05 15:10:33.955027
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567; 2024-04-05 15:10:33.975621
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567; 2024-04-05 15:10:35.439723
+FilipSH updated data for: abcdefghijklmnopqrstuvwxyz���1234567; 2024-04-05 15:11:27.078053
+FilipSH updated data for: abcdefghijklmnopqrstuvwxyz���1234567; 2024-04-05 15:11:30.715882
+FilipSH got data for: s; 2024-04-05 15:11:33.323652
+FilipSH got data for: sc; 2024-04-05 15:11:33.504980
+FilipSH got data for: scal; 2024-04-05 15:11:33.764946
+FilipSH got data for: scal; 2024-04-05 15:11:33.784604
+FilipSH got data for: scalem; 2024-04-05 15:11:33.953033
+FilipSH got data for: scalem; 2024-04-05 15:11:33.983408
+FilipSH got data for: scalemem; 2024-04-05 15:11:34.073666
+FilipSH got data for: scalemem; 2024-04-05 15:11:34.131362
+FilipSH got data for: scalemem; 2024-04-05 15:11:34.471703
+FilipSH successfully logged out; 2024-04-05 15:11:40.867181
+FilipSh tried to log in, but is not verified; 2024-04-05 15:11:47.315317
+FilipSH successfully logged in; 2024-04-05 15:11:54.340493
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567; 2024-04-05 15:11:57.849204
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567; 2024-04-05 15:11:57.910409
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567e; 2024-04-05 15:11:59.046907
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567ee; 2024-04-05 15:11:59.672956
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eee; 2024-04-05 15:12:00.091958
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeee; 2024-04-05 15:12:00.292523
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeee; 2024-04-05 15:12:00.538092
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeeee; 2024-04-05 15:12:00.717093
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeeeee; 2024-04-05 15:12:00.912593
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeeeeee; 2024-04-05 15:12:01.070911
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeeeeeee; 2024-04-05 15:12:01.246666
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeeeeeeee; 2024-04-05 15:12:01.402696
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeeeeeee; 2024-04-05 15:12:01.834656
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeeeeee; 2024-04-05 15:12:01.953901
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeeeee; 2024-04-05 15:12:02.151237
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeeee; 2024-04-05 15:12:02.248749
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeee; 2024-04-05 15:12:02.409361
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeee; 2024-04-05 15:12:02.550124
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eee; 2024-04-05 15:12:02.703473
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567ee; 2024-04-05 15:12:02.818408
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567e; 2024-04-05 15:12:02.959559
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567ee; 2024-04-05 15:12:03.061040
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eee; 2024-04-05 15:12:03.238548
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeee; 2024-04-05 15:12:03.391417
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeee; 2024-04-05 15:12:03.564207
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeeee; 2024-04-05 15:12:03.722834
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeeeee; 2024-04-05 15:12:03.899439
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeeeeee; 2024-04-05 15:12:04.050422
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeeeee; 2024-04-05 15:12:04.189459
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeeee; 2024-04-05 15:12:04.336151
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeeee; 2024-04-05 15:12:04.470900
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1234567eeee; 2024-04-05 15:12:04.599512
+FilipSH got data for: ; 2024-04-05 15:12:08.401279
+FilipSH successfully logged in; 2024-04-05 15:13:23.172772
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:25.482339
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:25.497821
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:26.792497
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:27.393140
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:27.609765
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:27.785147
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:28.304322
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:28.473282
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:28.677293
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:29.530159
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:29.553286
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:29.712211
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:29.893042
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:30.054953
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:30.093977
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:30.272193
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:30.437663
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:30.576806
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:30.622482
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:30.767321
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:30.806413
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:30.952830
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:30.997012
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:31.135928
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:31.317956
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:31.473589
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���1; 2024-04-05 15:13:31.666035
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz���; 2024-04-05 15:13:33.834506
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz��; 2024-04-05 15:13:33.988886
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz�; 2024-04-05 15:13:34.128169
+FilipSH got data for: abcdefghijklmnopqrstuvwxyz; 2024-04-05 15:13:34.303717
+FilipSH got data for: abcdefghijklmnopqrstuvwxy; 2024-04-05 15:13:34.432307
+FilipSH got data for: abcdefghijklmnopqrstuvwx; 2024-04-05 15:13:34.607531
+FilipSH got data for: abcdefghijklmnopqrstuvw; 2024-04-05 15:13:34.751749
+FilipSH got data for: abcdefghijklmnopqrstuv; 2024-04-05 15:13:34.908207
+FilipSH got data for: abcdefghijklmnopqrstu; 2024-04-05 15:13:35.055061
+FilipSH got data for: abcdefghijklmnopqrst; 2024-04-05 15:13:35.254565
+FilipSH got data for: abcdefghijklmnopqrst1; 2024-04-05 15:13:36.024911
+FilipSH got data for: abcdefghijklmnopqrst11; 2024-04-05 15:13:36.296786
+FilipSH got data for: abcdefghijklmnopqrst111; 2024-04-05 15:13:36.510344
+FilipSH got data for: abcdefghijklmnopqrst1111; 2024-04-05 15:13:36.756788
+FilipSH got data for: abcdefghijklmnopqrst11111; 2024-04-05 15:13:36.969139
+FilipSH got data for: abcdefghijklmnopqrst111111; 2024-04-05 15:13:37.190633
+FilipSH got data for: abcdefghijklmnopqrst1111111; 2024-04-05 15:13:37.384903
+FilipSH got data for: abcdefghijklmnopqrst11111111; 2024-04-05 15:13:37.590448
+FilipSH got data for: abcdefghijklmnopqrst111111111; 2024-04-05 15:13:37.777725
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:37.993090
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:38.171145
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:38.362766
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:38.546817
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:38.759912
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:38.942040
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:39.135476
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:39.304180
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:39.506464
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:39.682744
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:39.859010
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:40.032957
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:40.220362
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:40.382785
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:40.569038
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:40.734494
+FilipSH got data for: abcdefghijklmnopqrst1111111111; 2024-04-05 15:13:40.901579
+FilipSH got data for: ; 2024-04-05 15:13:42.033975
+FilipSH successfully logged out; 2024-04-05 15:13:57.021212
+FilipSH successfully logged in; 2024-04-05 16:03:26.178034
+FilipSH got data for: Scalemem; 2024-04-05 16:03:27.984296
+FilipSH got data for: ; 2024-04-05 16:03:42.584332
+FilipSH got data for: A; 2024-04-05 16:03:45.135292
+FilipSH got data for: A; 2024-04-05 16:03:45.147422
+FilipSH got data for: Ax; 2024-04-05 16:03:45.944380
+FilipSH got data for: Axy; 2024-04-05 16:03:46.197212
+FilipSH got data for: Axys; 2024-04-05 16:03:46.366172
+FilipSH updated data for: Axys; 2024-04-05 16:03:58.477781
+FilipSH got data for: A; 2024-04-05 16:03:59.894186
+FilipSH got data for: A; 2024-04-05 16:03:59.917057
+FilipSH got data for: Ax; 2024-04-05 16:04:00.140699
+FilipSH got data for: Axy; 2024-04-05 16:04:00.447756
+FilipSH got data for: Axys; 2024-04-05 16:04:00.590077
+FilipSH got data for: Axys; 2024-04-05 16:04:01.179320
+FilipSH successfully logged in; 2024-04-05 16:10:12.427874
+FilipSH got data for: A; 2024-04-05 16:10:15.092869
+FilipSH got data for: A; 2024-04-05 16:10:15.106505
+FilipSH got data for: Ax; 2024-04-05 16:10:16.763900
+FilipSH got data for: Axy; 2024-04-05 16:10:16.956997
+FilipSH got data for: Axys; 2024-04-05 16:10:17.112857
+FilipSH got data for: Axys; 2024-04-05 16:10:28.851593
+FilipSH got data for: Axys; 2024-04-05 16:10:29.497355
+FilipSH got data for: Axys; 2024-04-05 16:10:29.710933
+FilipSH got data for: Axys; 2024-04-05 16:10:29.897138
+FilipSH got data for: Axys; 2024-04-05 16:10:30.534064
+FilipSH successfully logged in; 2024-04-05 16:14:34.867044
+FilipSH got data for: A; 2024-04-05 16:14:37.720051
+FilipSH got data for: A; 2024-04-05 16:14:37.733117
+FilipSH got data for: Ax; 2024-04-05 16:14:38.279333
+FilipSH got data for: Axy; 2024-04-05 16:14:39.582875
+FilipSH got data for: Axys; 2024-04-05 16:14:40.583394
+FilipSH updated data for: Axys; 2024-04-05 16:15:05.503757
+FilipSH got data for: A; 2024-04-05 16:15:41.369259
+FilipSH got data for: A; 2024-04-05 16:15:41.396302
+FilipSH got data for: Ax; 2024-04-05 16:15:41.743767
+FilipSH got data for: Axy; 2024-04-05 16:15:41.960366
+FilipSH got data for: Axys; 2024-04-05 16:15:42.150806
+FilipSH tried to log in, but is not verified; 2024-04-05 16:16:43.038266
+FilipSH tried to log in, but is not verified; 2024-04-05 16:16:46.876055
+FilipSH tried to log in, but is not verified; 2024-04-05 16:16:53.939556
+ha@frontinnovation.no tried to log in, but is not verified; 2024-04-05 16:17:02.198711
+FilipSH successfully logged in; 2024-04-05 16:17:27.045720
+FilipSH got data for: A; 2024-04-05 16:17:29.235575
+FilipSH got data for: A; 2024-04-05 16:17:29.247567
+FilipSH got data for: Ax; 2024-04-05 16:17:29.514707
+FilipSH got data for: Axy; 2024-04-05 16:17:29.831918
+FilipSH got data for: Axys; 2024-04-05 16:17:30.334755
+FilipSH successfully logged in; 2024-04-05 16:25:09.807732
+FilipSH got data for: A; 2024-04-05 16:25:14.087141
+FilipSH got data for: A; 2024-04-05 16:25:14.103182
+FilipSH got data for: Ax; 2024-04-05 16:25:14.588907
+FilipSH got data for: Axys; 2024-04-05 16:25:14.739574
+FilipSH got data for: Axys; 2024-04-05 16:25:14.780719
+FilipSH successfully logged out; 2024-04-05 16:26:29.395761
+FilipSH successfully logged in; 2024-04-05 16:40:20.063658
+FilipSH got data for: Scalemem; 2024-04-05 16:40:26.171214
+FilipSH successfully logged out; 2024-04-05 16:40:28.695165
+Front successfully logged in; 2024-04-05 16:41:43.051362
+Front got data for: S; 2024-04-05 16:42:00.358954
+Front got data for: S; 2024-04-05 16:42:00.440721
+Front got data for: Sc; 2024-04-05 16:42:00.576520
+Front got data for: Scal; 2024-04-05 16:42:00.810308
+Front got data for: Scal; 2024-04-05 16:42:00.873892
+Front got data for: Scale; 2024-04-05 16:42:00.981581
+Front got data for: Scalem; 2024-04-05 16:42:01.209322
+Front got data for: Scaleme; 2024-04-05 16:42:01.356533
+Front got data for: Scalemem; 2024-04-05 16:42:01.427473
+Front successfully logged in; 2024-04-05 16:44:12.953862
+Front got data for: sw; 2024-04-05 16:44:14.569746
+Front got data for: swi; 2024-04-05 16:44:14.644323
+Front got data for: swi; 2024-04-05 16:44:14.704287
+Front got data for: swir; 2024-04-05 16:44:14.835040
+Front got data for: swire; 2024-04-05 16:44:14.976359
+Front got data for: swire; 2024-04-05 16:44:15.116278
+Front updated data for: swire; 2024-04-05 16:44:29.702566
+Front got data for: sw; 2024-04-05 16:44:31.563675
+Front got data for: swi; 2024-04-05 16:44:31.696388
+Front got data for: swi; 2024-04-05 16:44:31.743730
+Front got data for: swir; 2024-04-05 16:44:31.899731
+Front got data for: swire; 2024-04-05 16:44:32.049515
+Front got data for: sw; 2024-04-05 16:44:44.961481
+Front got data for: sw; 2024-04-05 16:44:45.068877
+Front got data for: swir; 2024-04-05 16:44:45.137271
+Front got data for: swir; 2024-04-05 16:44:45.212262
+Front got data for: swire; 2024-04-05 16:44:45.365246
+Front got data for: swire; 2024-04-05 16:44:45.516947
+Front updated data for: swire; 2024-04-05 16:44:59.314387
+Front got data for: sw; 2024-04-05 16:45:02.110792
+Front got data for: sw; 2024-04-05 16:45:02.195645
+Front got data for: swir; 2024-04-05 16:45:02.298374
+Front got data for: swir; 2024-04-05 16:45:02.380026
+Front got data for: swire; 2024-04-05 16:45:02.559401
+Front successfully logged out; 2024-04-05 16:45:09.427539
+FilipSH successfully logged in; 2024-04-05 17:08:33.715218
+FilipSH got data for: S; 2024-04-05 17:08:38.511106
+FilipSH got data for: SS; 2024-04-05 17:08:38.641318
+FilipSH got data for: SSH; 2024-04-05 17:08:38.785341
+FilipSH got data for: SSH; 2024-04-05 17:08:38.817360
+FilipSH updated data for: SSH; 2024-04-05 17:08:49.937037
+FilipSH got data for: S; 2024-04-05 17:08:51.550762
+FilipSH got data for: SS; 2024-04-05 17:08:51.665700
+FilipSH got data for: SS; 2024-04-05 17:08:51.720777
+FilipSH got data for: SSh; 2024-04-05 17:08:51.806143
+FilipSH got data for: SS; 2024-04-05 17:08:52.491582
+FilipSH got data for: SSH; 2024-04-05 17:08:53.119974
+FilipSH got data for: SSH; 2024-04-05 17:08:53.185950
+FilipSH got data for: SSH; 2024-04-05 17:08:57.694298
+FilipSH successfully logged in; 2024-04-05 17:12:43.890419
+FilipSH got data for: S; 2024-04-05 17:12:46.173923
+FilipSH got data for: SSH; 2024-04-05 17:12:46.301657
+FilipSH got data for: SSH; 2024-04-05 17:12:46.354291
+FilipSH got data for: SSH; 2024-04-05 17:12:46.382783
+FilipSH successfully logged in; 2024-04-05 17:14:06.627715
+FilipSH got data for: S; 2024-04-05 17:14:08.054229
+FilipSH got data for: SS; 2024-04-05 17:14:08.159414
+FilipSH got data for: SSH; 2024-04-05 17:14:08.234395
+FilipSH got data for: SSH; 2024-04-05 17:14:08.259258
+FilipSH successfully logged in; 2024-04-05 17:14:50.310000
+FilipSH got data for: S; 2024-04-05 17:14:51.573625
+FilipSH got data for: SS; 2024-04-05 17:14:51.651685
+FilipSH got data for: SSH; 2024-04-05 17:14:51.884601
+FilipSH got data for: SSH; 2024-04-05 17:14:51.898315
+FilipSH got data for: undefined; 2024-04-05 17:14:57.081087
+FilipSH got data for: undefined; 2024-04-05 17:14:57.095001
+FilipSH got data for: SSH; 2024-04-05 17:14:58.250648
+FilipSH got data for: SSH; 2024-04-05 17:14:58.277011
+FilipSH successfully logged in; 2024-04-05 17:15:42.564819
+FilipSH got data for: S; 2024-04-05 17:15:44.212922
+FilipSH got data for: SS; 2024-04-05 17:15:44.337375
+FilipSH got data for: SSH; 2024-04-05 17:15:44.596949
+FilipSH got data for: SSH; 2024-04-05 17:15:44.609955
+FilipSH successfully logged in; 2024-04-05 17:16:22.286985
+FilipSH got data for: S; 2024-04-05 17:16:24.328401
+FilipSH got data for: SH; 2024-04-05 17:16:24.524736
+FilipSH got data for: S; 2024-04-05 17:16:25.071233
+FilipSH got data for: SS; 2024-04-05 17:16:25.196654
+FilipSH got data for: SSH; 2024-04-05 17:16:25.502796
+FilipSH got data for: SSH; 2024-04-05 17:16:25.740422
+FilipSH got data for: SSH256; 2024-04-05 17:16:29.194242
+FilipSH got data for: SSH256; 2024-04-05 17:16:29.227076
+FilipSH successfully logged out; 2024-04-05 17:16:30.742684
+FilipSH successfully logged in; 2024-04-05 17:19:23.069522
+FilipSH got data for: Scalemem; 2024-04-05 17:19:25.538073
+FilipSH got data for: Scaleme; 2024-04-05 17:19:31.158553
+FilipSH got data for: Scalem; 2024-04-05 17:19:31.290657
+FilipSH got data for: ; 2024-04-05 17:19:32.106694
+FilipSH got data for: Passord1234; 2024-04-05 17:19:32.380558
+FilipSH got data for: Passord1234; 2024-04-05 17:19:32.403929
+FilipSH got data for: ; 2024-04-05 17:19:34.194208
+FilipSH got data for: ; 2024-04-05 17:19:34.235306
+FilipSH got data for: Scalem; 2024-04-05 17:19:34.804453
+FilipSH got data for: Scalem; 2024-04-05 17:19:34.826565
+FilipSH got data for: Scaleme; 2024-04-05 17:19:40.308434
+FilipSH got data for: Scalemem; 2024-04-05 17:19:40.393043
+FilipSH got data for: F; 2024-04-05 17:19:48.811281
+FilipSH got data for: F; 2024-04-05 17:19:48.827355
+FilipSH got data for: Fr; 2024-04-05 17:19:49.393090
+FilipSH got data for: Fron; 2024-04-05 17:19:49.507014
+FilipSH got data for: Front; 2024-04-05 17:19:49.588049
+FilipSH got data for: Front; 2024-04-05 17:19:49.609930
+FilipSH got data for: Front; 2024-04-05 17:19:49.976596
+FilipSH got data for: Front I; 2024-04-05 17:19:50.205356
+FilipSH got data for: Front I; 2024-04-05 17:19:50.225628
+FilipSH got data for: Front In; 2024-04-05 17:19:50.239094
+FilipSH got data for: Front Inn; 2024-04-05 17:19:50.394300
+FilipSH got data for: Front Innovation; 2024-04-05 17:19:51.128061
+FilipSH updated data for: Front Innovation; 2024-04-05 17:20:02.691131
+FilipSH got data for: Front Innovation; 2024-04-05 17:20:05.539441
+FilipSH successfully logged out; 2024-04-05 17:20:07.127064
+FilipSH successfully logged in; 2024-04-08 13:50:37.563287
+FilipSH got data for: Scalemem; 2024-04-08 13:50:40.082280
+FilipSH got data for: Passord1234; 2024-04-08 13:50:43.980268
+FilipSH got data for: Passord1234; 2024-04-08 13:50:44.002673
+FilipSH got data for: Scalemem; 2024-04-08 13:50:45.399617
+FilipSH got data for: Scalemem; 2024-04-08 13:50:45.448196
+FilipSH updated data for: Scalemem; 2024-04-08 13:50:57.623196
+FilipSH successfully logged out; 2024-04-08 13:51:00.518103
+FilipSH successfully logged in; 2024-04-08 13:52:22.769784
+FilipSH successfully logged out; 2024-04-08 13:52:28.411244
+FilipSH successfully logged in; 2024-04-08 13:54:09.766065
+FilipSH successfully logged in; 2024-04-08 13:54:37.028448
+FilipSH got data for: Scalemem; 2024-04-08 13:54:39.523282
+FilipSH updated data for: Scalemem; 2024-04-08 13:54:56.673844
+FilipSH got data for: Scalemem; 2024-04-08 13:54:59.687082
+FilipSH successfully logged out; 2024-04-08 13:55:05.565415
+FilipSH successfully logged in; 2024-04-08 13:58:51.271987
+FilipSH successfully logged in; 2024-04-08 14:02:59.252205
+FilipSH successfully logged in; 2024-04-08 14:18:09.044565
+FilipSH successfully logged in; 2024-04-08 14:18:34.389859
+FilipSH got data for: undefined; 2024-04-08 14:18:36.833539
+FilipSH got data for: undefined; 2024-04-08 14:18:37.733796
+FilipSH got data for: undefined; 2024-04-08 14:18:38.000249
+FilipSH got data for: undefined; 2024-04-08 14:18:39.987483
+FilipSH got data for: undefined; 2024-04-08 14:18:40.217276
+FilipSH got data for: undefined; 2024-04-08 14:18:40.367621
+FilipSH got data for: undefined; 2024-04-08 14:18:40.473768
+FilipSH got data for: undefined; 2024-04-08 14:18:40.628951
+FilipSH got data for: undefined; 2024-04-08 14:18:40.713875
+FilipSH got data for: undefined; 2024-04-08 14:18:40.793997
+FilipSH got data for: undefined; 2024-04-08 14:18:42.806757
+FilipSH successfully logged out; 2024-04-08 14:19:25.910494
+FilipSH successfully logged in; 2024-04-08 14:34:01.961227
+FilipSH got data for: undefined; 2024-04-08 14:34:04.011023
+FilipSH got data for: undefined; 2024-04-08 14:34:06.709621
+FilipSH got data for: undefined; 2024-04-08 14:34:06.927854
+FilipSH got data for: undefined; 2024-04-08 14:34:07.910039
+FilipSH got data for: undefined; 2024-04-08 14:34:08.268479
+FilipSH successfully logged out; 2024-04-08 14:34:10.689165
+FilipSH successfully logged in; 2024-04-08 14:42:52.111561
+FilipSH got data for: Scalemem; 2024-04-08 14:42:59.345656
+FilipSH updated data for: Scalemem; 2024-04-08 14:43:20.687930
+FilipSH got data for: Scalemem; 2024-04-08 14:43:23.200708
+FilipSH successfully logged in; 2024-04-08 14:47:31.151248
+FilipSH successfully logged in; 2024-04-08 14:49:46.642731
+FilipSH got data for: Scalemem; 2024-04-08 14:50:49.102688
+FilipSH successfully logged out; 2024-04-08 14:50:55.123318
+FilipSH successfully logged in; 2024-04-08 15:17:32.245934
+FilipSH tried to log in, but is not verified; 2024-04-08 15:21:13.191962
+FilipSH successfully logged in; 2024-04-08 15:21:20.607265
+FilipSH successfully logged in; 2024-04-08 15:22:29.024671
+FilipSH successfully logged in; 2024-04-08 15:23:33.872842
+FilipSH successfully logged in; 2024-04-08 15:24:46.882199
+FilipSH successfully logged in; 2024-04-08 15:30:20.640894
+FilipSH successfully logged in; 2024-04-08 15:32:08.730024
+FilipSH successfully logged in; 2024-04-08 15:35:15.321259
+FilipSH successfully logged in; 2024-04-08 15:36:33.077159
+FilipSH successfully logged in; 2024-04-08 15:38:19.023869
+FilipSH successfully logged in; 2024-04-08 15:40:28.622456
+FilipSH successfully logged in; 2024-04-08 15:42:53.539449
+FilipSH successfully logged out; 2024-04-08 15:43:36.691327
+FilipSH successfully logged in; 2024-04-08 15:43:40.919166
+FilipSH successfully logged out; 2024-04-08 15:43:59.762335
+FilipSH successfully logged in; 2024-04-08 15:45:25.311003
+FilipSH got data for: S; 2024-04-08 15:45:26.606438
+FilipSH got data for: S; 2024-04-08 15:45:26.648342
+FilipSH got data for: Sc; 2024-04-08 15:45:27.457138
+FilipSH got data for: Scal; 2024-04-08 15:45:27.634642
+FilipSH got data for: Scal; 2024-04-08 15:45:27.723410
+FilipSH got data for: Scale; 2024-04-08 15:45:27.813315
+FilipSH got data for: Scaleme; 2024-04-08 15:45:27.911571
+FilipSH got data for: Scalemem; 2024-04-08 15:45:28.076876
+FilipSH got data for: Scalemem; 2024-04-08 15:45:28.090881
+FilipSH successfully logged out; 2024-04-08 15:45:35.333415
+FilipSH successfully logged in; 2024-04-08 15:50:58.513977
+FilipSH successfully logged in; 2024-04-08 15:52:52.874801
+FilipSH got data for: Scalemem; 2024-04-08 15:53:43.087296
+FilipSH successfully logged in; 2024-04-08 15:54:50.133717
+FilipSH got data for: Scalemem; 2024-04-08 15:54:53.949658
+FilipSH successfully logged in; 2024-04-08 15:59:21.412297
+FilipSH got data for: Scalemem; 2024-04-08 15:59:25.338756
+FilipSH successfully logged in; 2024-04-08 16:00:36.103997
+FilipSH got data for: Scalemem; 2024-04-08 16:00:43.095645
+FilipSH got data for: Scalemem; 2024-04-08 16:00:43.450452
+FilipSH successfully logged in; 2024-04-08 16:02:49.790758
+FilipSH got data for: Scalemem; 2024-04-08 16:02:53.360986
+FilipSH updated data for: Scalemem; 2024-04-08 16:03:03.917673
+FilipSH got data for: Scalemem; 2024-04-08 16:03:06.079415
+FilipSH successfully logged out; 2024-04-08 16:03:08.157160
+FilipSH successfully logged in; 2024-04-08 16:04:06.331393
+FilipSH got data for: Scalemem; 2024-04-08 16:04:10.696853
+FilipSH successfully logged out; 2024-04-08 16:05:13.029988
+FilipSH successfully logged in; 2024-04-08 16:05:17.337265
+FilipSH got data for: Scalemem; 2024-04-08 16:05:19.866841
+FilipSH got data for: Scalemem; 2024-04-08 16:06:01.501568
+FilipSH got data for: Scalemem; 2024-04-08 16:06:31.191234
+FilipSH successfully logged in; 2024-04-08 16:08:31.232615
+FilipSH got data for: Scalemem; 2024-04-08 16:08:34.208773
+FilipSH successfully logged in; 2024-04-08 16:12:32.982589
+FilipSH got data for: Scalemem; 2024-04-08 16:13:17.312649
+FilipSH successfully logged in; 2024-04-08 16:13:44.062827
+FilipSH got data for: Scalemem; 2024-04-08 16:13:47.179269
+FilipSH got data for: Scalemem; 2024-04-08 16:14:07.764212
+FilipSH successfully logged in; 2024-04-08 16:15:22.340107
+FilipSH got data for: Scalemem; 2024-04-08 16:15:39.306019
+FilipSH successfully logged in; 2024-04-08 16:17:41.587179
+FilipSH successfully logged in; 2024-04-08 16:19:58.284884
+FilipSH successfully logged in; 2024-04-08 16:23:40.836419
+FilipSH got data for: Scalemem; 2024-04-08 16:23:45.108834
+FilipSH successfully logged in; 2024-04-08 16:25:20.046136
+FilipSH successfully logged in; 2024-04-08 16:27:20.953768
+FilipSH got data for: Scalemem; 2024-04-08 16:27:26.655699
+FilipSH successfully logged in; 2024-04-08 16:30:11.332890
+FilipSH successfully logged in; 2024-04-08 16:33:39.367379
+FilipSH got data for: Scalemem; 2024-04-08 16:33:46.727999
+FilipSH got data for: Front Innovation; 2024-04-08 16:33:55.426476
+FilipSH got data for: Uniscale; 2024-04-08 16:34:00.218168
+FilipSH got data for: Front Innovation; 2024-04-08 16:34:05.160062
+FilipSH got data for: Scalemem; 2024-04-08 16:34:42.799776
+FilipSH successfully logged in; 2024-04-08 16:39:56.274718
+FilipSH got data for: Scalemem; 2024-04-08 16:39:59.992019
+FilipSH successfully logged in; 2024-04-08 16:42:16.123041
+FilipSH got data for: Scalemem; 2024-04-08 16:42:30.597527
+FilipSH successfully logged in; 2024-04-08 16:48:27.912663
+FilipSH got data for: Scalemem; 2024-04-08 16:49:19.392295
+FilipSH got data for: Scalemem�; 2024-04-08 16:50:10.670541
+FilipSH got data for: Scalemem; 2024-04-08 16:50:11.708014
+FilipSH successfully logged out; 2024-04-08 16:50:27.324407
+FilipSH successfully logged in; 2024-04-08 16:50:31.391420
+FilipSH successfully logged in; 2024-04-08 16:54:32.553312
+FilipSH successfully logged in; 2024-04-08 17:06:33.114381
+FilipSH got data for: Scalemem; 2024-04-08 17:07:15.989989
+FilipSH got data for: Scalemem; 2024-04-08 17:07:46.707955
+FilipSH got data for: Scalemem; 2024-04-08 17:08:06.771101
+FilipSH updated data for: Scalemem; 2024-04-08 17:08:11.744901
+FilipSH got data for: Scalemem; 2024-04-08 17:08:13.716530
+FilipSH successfully logged out; 2024-04-08 17:08:15.674709
+FilipSH successfully logged in; 2024-04-08 17:09:09.312901
+FilipSH got data for: Scalemem; 2024-04-08 17:09:12.404269
+FilipSH successfully logged in; 2024-04-08 17:11:44.588057
+FilipSH successfully logged in; 2024-04-08 17:14:10.476348
+FilipSH successfully logged in; 2024-04-08 17:19:09.237391
+FilipSH successfully logged in; 2024-04-08 17:22:54.372935
+FilipSH successfully logged in; 2024-04-08 17:25:59.289473
+FilipSH successfully logged in; 2024-04-08 17:29:37.063124
+FilipSH successfully logged in; 2024-04-08 17:31:34.844894
+FilipSH successfully logged in; 2024-04-08 17:41:15.828702
+FilipSH got data for: Scalemem; 2024-04-08 17:41:19.879040
+FilipSH updated data for: Scalemem; 2024-04-08 17:41:25.471738
+FilipSH got data for: Scalemem; 2024-04-08 17:41:26.910710
+FilipSH successfully logged out; 2024-04-08 17:41:30.325858
+FilipSH tried to log in, but is not verified; 2024-04-08 17:45:18.681605
+FilipSH successfully logged in; 2024-04-08 17:45:24.058277
+FilipSH successfully logged in; 2024-04-08 17:52:08.237479
+FilipSH got data for: Scalemem; 2024-04-08 17:52:10.978148
+FilipSH successfully logged in; 2024-04-08 17:52:40.438344
+FilipSH got data for: Scalemem; 2024-04-08 17:52:42.173897
+FilipSH successfully logged in; 2024-04-09 13:16:21.624095
+FilipSH successfully logged in; 2024-04-09 13:19:19.716170
+FilipSH got data for: S; 2024-04-09 13:19:21.492427
+FilipSH got data for: S; 2024-04-09 13:19:21.507520
+FilipSH got data for: Sc; 2024-04-09 13:19:22.210791
+FilipSH got data for: Sca; 2024-04-09 13:19:22.655369
+FilipSH got data for: Scal; 2024-04-09 13:19:22.873671
+FilipSH got data for: Scale; 2024-04-09 13:19:23.003907
+FilipSH got data for: Scalem; 2024-04-09 13:19:23.107033
+FilipSH got data for: Scalemem; 2024-04-09 13:19:23.380456
+FilipSH got data for: Scalemem; 2024-04-09 13:19:23.399985
+FilipSH successfully logged in; 2024-04-10 12:07:35.119511
+FilipSH got data for: Scalemem; 2024-04-10 12:07:42.381213
+FilipSH updated data for: Scalemem; 2024-04-10 12:08:02.574471
+FilipSH got data for: S; 2024-04-10 12:08:03.739462
+FilipSH got data for: S; 2024-04-10 12:08:03.762570
+FilipSH got data for: Sc; 2024-04-10 12:08:04.016432
+FilipSH got data for: Sca; 2024-04-10 12:08:04.211962
+FilipSH got data for: Scal; 2024-04-10 12:08:04.317765
+FilipSH got data for: Scale; 2024-04-10 12:08:04.411949
+FilipSH got data for: Scalem; 2024-04-10 12:08:04.516883
+FilipSH got data for: Scalemem; 2024-04-10 12:08:04.592046
+FilipSH got data for: Scalemem; 2024-04-10 12:08:04.648675
+FilipSH got data for: ScalememScalememPassord123456789; 2024-04-10 12:08:09.047810
+FilipSH got data for: ScalememScalememPassord123456789; 2024-04-10 12:08:09.077598
+FilipSH got data for: Scalemem; 2024-04-10 12:08:10.736705
+FilipSH got data for: Scalemem; 2024-04-10 12:08:10.773784
+FilipSH successfully logged out; 2024-04-10 12:08:25.105291
+FilipSH successfully logged in; 2024-04-10 12:16:42.707297
+FilipSH successfully logged out; 2024-04-10 12:16:44.021537
+FilipSH successfully logged in; 2024-04-10 13:53:52.522475
+FilipSH got data for: Scalemem; 2024-04-10 13:53:55.106027
+FilipSH successfully logged out; 2024-04-10 13:53:56.072860
+FilipSH successfully logged in; 2024-04-10 23:56:40.051721
+FilipSH got data for: Scalemem; 2024-04-10 23:56:42.514276
+FilipSH successfully logged in; 2024-04-10 23:58:51.215153
+FilipSH got data for: Scalemem; 2024-04-10 23:58:53.968840
+FilipSH successfully logged in; 2024-04-11 00:00:29.345974
+FilipSH got data for: Scalemem; 2024-04-11 00:00:33.808943
+FilipSH got data for: S; 2024-04-11 00:03:47.870340
+FilipSH got data for: S; 2024-04-11 00:03:47.901937
+FilipSH got data for: Sc; 2024-04-11 00:03:48.151032
+FilipSH got data for: Scal; 2024-04-11 00:03:48.336842
+FilipSH got data for: Scal; 2024-04-11 00:03:48.432047
+FilipSH got data for: Scale; 2024-04-11 00:03:48.512921
+FilipSH got data for: Scalem; 2024-04-11 00:03:48.606325
+FilipSH got data for: Scalemem; 2024-04-11 00:03:48.856136
+FilipSH got data for: Scalemem; 2024-04-11 00:03:48.899153
+FilipSH successfully logged in; 2024-04-11 00:18:12.974633
+FilipSH got data for: Scalemem; 2024-04-11 00:18:16.171783
+FilipSH got data for: ScalememEt m�te kl 14:00 p� fredag pas; 2024-04-11 00:18:21.209832
+FilipSH got data for: ScalememEt m�te kl 14:00 p� fredag pas; 2024-04-11 00:18:21.230675
+FilipSH got data for: Scalemem; 2024-04-11 00:18:26.925678
+FilipSH got data for: Scaleme; 2024-04-11 00:18:32.656306
+FilipSH got data for: Scalemem; 2024-04-11 00:18:33.156437
+FilipSH got data for: Scalemem; 2024-04-11 00:18:39.008006
+FilipSH got data for: Scaleme; 2024-04-11 00:18:49.739553
+FilipSH got data for: Scalemem; 2024-04-11 00:18:50.425648
+FilipSH successfully logged in; 2024-04-11 00:20:17.329528
+FilipSH got data for: Scalemem; 2024-04-11 00:20:20.406986
+FilipSH got data for: ScalememPassord1234; 2024-04-11 00:20:26.161387
+FilipSH got data for: ScalememPassord1234; 2024-04-11 00:20:26.205013
+FilipSH got data for: ScalememPa; 2024-04-11 00:20:27.904922
+FilipSH got data for: ScalememP; 2024-04-11 00:20:28.116392
+FilipSH got data for: Scalemem; 2024-04-11 00:20:28.283786
+FilipSH successfully logged out; 2024-04-11 00:20:59.243831
+FilipSH successfully logged in; 2024-04-11 00:29:06.515335
+FilipSH got data for: Scalemem; 2024-04-11 00:29:16.537470
+FilipSH got data for: Scalemem; 2024-04-11 00:30:03.972300
+FilipSH successfully logged in; 2024-04-11 00:33:35.041148
+FilipSH got data for: Scalemem; 2024-04-11 00:33:37.825327
+FilipSH successfully logged in; 2024-04-11 00:36:25.170133
+FilipSH got data for: Scalemem; 2024-04-11 00:36:27.256711
+FilipSH tried to log in, but is not verified; 2024-04-11 00:39:08.953138
+FilipSH successfully logged in; 2024-04-11 00:39:15.113098
+FilipSH got data for: Scalemem; 2024-04-11 00:39:17.792959
+FilipSH got data for: Scaleme; 2024-04-11 00:39:18.620134
+FilipSH got data for: Scalemem; 2024-04-11 00:39:19.301159
+FilipSH got data for: Scaleme; 2024-04-11 00:39:19.970098
+FilipSH got data for: Scalemem; 2024-04-11 00:39:20.241083
+FilipSH got data for: Scaleme; 2024-04-11 00:39:20.455525
+FilipSH got data for: Scalemem; 2024-04-11 00:39:20.798651
+FilipSH got data for: Scaleme; 2024-04-11 00:39:21.234068
+FilipSH got data for: Scalemem; 2024-04-11 00:39:21.452309
+FilipSH got data for: Scalememm; 2024-04-11 00:39:21.608768
+FilipSH got data for: Scalememmm; 2024-04-11 00:39:21.746177
+FilipSH got data for: Scalememm; 2024-04-11 00:39:21.973996
+FilipSH got data for: Scalemem; 2024-04-11 00:39:22.092629
+FilipSH got data for: Scaleme; 2024-04-11 00:39:22.505068
+FilipSH got data for: Scalemem; 2024-04-11 00:39:22.722358
+FilipSH got data for: Scalememm; 2024-04-11 00:39:23.268686
+FilipSH got data for: Scalemem; 2024-04-11 00:39:23.744180
+FilipSH got data for: Scaleme; 2024-04-11 00:39:23.934260
+FilipSH got data for: Scalemem; 2024-04-11 00:39:24.201040
+FilipSH got data for: Scaleme; 2024-04-11 00:40:00.664719
+FilipSH got data for: Scalemem; 2024-04-11 00:40:00.958137
+FilipSH got data for: Scaleme; 2024-04-11 00:40:01.997686
+FilipSH got data for: Scalemem; 2024-04-11 00:40:02.444335
+FilipSH got data for: Scalemem; 2024-04-11 00:40:16.054011
+FilipSH got data for: Scaleme; 2024-04-11 00:40:17.239109
+FilipSH got data for: Scalemem; 2024-04-11 00:40:17.502638
+FilipSH got data for: Scaleme; 2024-04-11 00:40:18.421677
+FilipSH got data for: Scalemem; 2024-04-11 00:40:18.673255
+FilipSH got data for: Scaleme; 2024-04-11 00:40:32.761930
+FilipSH got data for: Scalemem; 2024-04-11 00:40:33.206012
+FilipSH got data for: Scaleme; 2024-04-11 00:40:34.014180
+FilipSH got data for: Scalemem; 2024-04-11 00:40:34.218996
+FilipSH got data for: Scalemem; 2024-04-11 00:40:35.106846
+FilipSH got data for: Scalemem; 2024-04-11 00:40:35.254165
+FilipSH got data for: Scalemem; 2024-04-11 00:40:35.359337
+FilipSH got data for: Scalemem; 2024-04-11 00:40:41.753481
+FilipSH got data for: Scaleme; 2024-04-11 00:40:44.307366
+FilipSH got data for: Scalemem; 2024-04-11 00:40:44.587993
+FilipSH got data for: Scaleme; 2024-04-11 00:40:44.893849
+FilipSH got data for: Scalemem; 2024-04-11 00:40:45.121635
+FilipSH got data for: Scaleme; 2024-04-11 00:40:45.289161
+FilipSH got data for: Scalemem; 2024-04-11 00:40:45.494632
+FilipSH got data for: Scaleme; 2024-04-11 00:40:45.615918
+FilipSH got data for: Scalemem; 2024-04-11 00:40:45.805187
+FilipSH got data for: Scaleme; 2024-04-11 00:40:45.983649
+FilipSH got data for: Scalemem; 2024-04-11 00:40:46.208963
+FilipSH successfully logged in; 2024-04-11 00:44:30.878965
+FilipSH got data for: Uniscale; 2024-04-11 00:44:33.744008
+FilipSH got data for: ; 2024-04-11 00:44:46.567401
+FilipSH got data for: F; 2024-04-11 00:44:46.797731
+FilipSH got data for: F; 2024-04-11 00:44:46.849502
+FilipSH got data for: Fro; 2024-04-11 00:44:47.069465
+FilipSH got data for: Fron; 2024-04-11 00:44:47.158244
+FilipSH got data for: Front; 2024-04-11 00:44:47.210022
+FilipSH got data for: Front; 2024-04-11 00:44:47.268387
+FilipSH got data for: Front Innovation; 2024-04-11 00:44:48.339039
+FilipSH updated data for: Front Innovation; 2024-04-11 00:45:08.154418
+FilipSH got data for: Front Innovation; 2024-04-11 00:45:11.267064
+FilipSH got data for: S; 2024-04-11 00:45:18.759456
+FilipSH got data for: S; 2024-04-11 00:45:18.794355
+FilipSH got data for: Sc; 2024-04-11 00:45:18.972365
+FilipSH got data for: Sca; 2024-04-11 00:45:19.288167
+FilipSH got data for: Scal; 2024-04-11 00:45:19.674291
+FilipSH got data for: Scale; 2024-04-11 00:45:19.820997
+FilipSH got data for: Scalemem; 2024-04-11 00:45:20.852945
+FilipSH successfully logged in; 2024-04-11 00:49:33.370315
+FilipSH got data for: Uniscale; 2024-04-11 00:49:36.142469
+FilipSH updated data for: Uniscale; 2024-04-11 00:49:42.680673
+FilipSH successfully logged in; 2024-04-11 00:56:06.651005
+FilipSH got data for: Uniscale; 2024-04-11 00:56:09.524035
+FilipSH updated data for: Uniscale; 2024-04-11 00:56:20.360688
+FilipSH got data for: Scalemem; 2024-04-11 00:56:42.775110
+FilipSH updated data for: Scalemem; 2024-04-11 00:56:46.699379
+FilipSH got data for: Scalemem; 2024-04-11 00:57:42.425442
+FilipSH successfully logged out; 2024-04-11 00:57:46.744960
+FilipSH successfully logged in; 2024-04-11 00:58:18.250685
+FilipSH got data for: Scalemem; 2024-04-11 00:58:21.158059
+FilipSH successfully logged in; 2024-04-11 01:03:06.634890
+FilipSH got data for: Scalemem; 2024-04-11 01:03:13.418611
+FilipSH updated data for: Scalemem; 2024-04-11 01:03:20.602927
+FilipSH successfully logged in; 2024-04-11 12:25:14.235095
+FilipSH got data for: Scalemem; 2024-04-11 12:25:18.825835
+FilipSH successfully logged out; 2024-04-11 12:25:33.919121
+FilipSH successfully logged in; 2024-04-11 12:47:55.485463
+FilipSH got data for: Scalemem; 2024-04-11 12:47:57.681582
+FilipSH successfully logged in; 2024-04-11 12:53:19.108687
+FilipSH got data for: Scalemem; 2024-04-11 12:53:44.550337
+FilipSH updated data for: Scalemem; 2024-04-11 12:54:26.942621
+FilipSH got data for: Scalemem; 2024-04-11 12:54:29.292777
+FilipSH updated data for: Scalemem; 2024-04-11 12:54:42.808031
+FilipSH got data for: Scalemem; 2024-04-11 12:54:53.902073
+FilipSH updated data for: Scalemem; 2024-04-11 12:55:15.256772
+FilipSH got data for: Scalemem; 2024-04-11 12:55:18.149488
+FilipSH got data for: Scaleme; 2024-04-11 12:56:06.346877
+FilipSH got data for: Scalemem; 2024-04-11 12:56:06.583549
+FilipSH got data for: Scaleme; 2024-04-11 12:56:08.292274
+FilipSH got data for: Scalemem; 2024-04-11 12:56:08.566309
+FilipSH got data for: Scaleme; 2024-04-11 12:56:10.550028
+FilipSH got data for: Scalemem; 2024-04-11 12:56:11.031154
+FilipSH updated data for: Scalemem; 2024-04-11 12:56:21.856541
+FilipSH got data for: Scalemem; 2024-04-11 12:56:23.820697
+FilipSH got data for: Scaleme; 2024-04-11 12:56:26.934990
+FilipSH got data for: Scalemem; 2024-04-11 12:56:27.538743
+FilipSH got data for: Scaleme; 2024-04-11 12:56:28.793584
+FilipSH got data for: Scalemem; 2024-04-11 12:56:29.264831
+FilipSH got data for: Scaleme; 2024-04-11 12:56:30.787330
+FilipSH got data for: Scalemem; 2024-04-11 12:56:31.399366
+FilipSH got data for: Scaleme; 2024-04-11 12:56:35.348760
+FilipSH got data for: Scalemem; 2024-04-11 12:56:35.634637
+FilipSH got data for: Scalememm; 2024-04-11 12:56:35.868390
+FilipSH got data for: Scalemem; 2024-04-11 12:56:38.245635
+FilipSH successfully logged in; 2024-04-11 13:04:12.739616
+FilipSH got data for: Front Innovation; 2024-04-11 13:04:40.487754
+FilipSH updated data for: Front Innovation; 2024-04-11 13:04:58.802324
+FilipSH got data for: F; 2024-04-11 13:05:00.706633
+FilipSH got data for: F; 2024-04-11 13:05:00.725565
+FilipSH got data for: Fro; 2024-04-11 13:05:00.932239
+FilipSH got data for: Fron; 2024-04-11 13:05:01.022315
+FilipSH got data for: Fron; 2024-04-11 13:05:01.079144
+FilipSH got data for: Front; 2024-04-11 13:05:01.207014
+FilipSH got data for: Front Innovation; 2024-04-11 13:05:02.097644
+FilipSH got data for: Front Innovatio; 2024-04-11 13:05:04.653864
+FilipSH got data for: Front Innovation; 2024-04-11 13:05:05.053706
+FilipSH got data for: Front Innovatio; 2024-04-11 13:05:07.879378
+FilipSH got data for: Front Innovation; 2024-04-11 13:05:08.295869
+FilipSH successfully logged in; 2024-04-11 13:22:45.144787
+FilipSH got data for: Front Innovation; 2024-04-11 13:22:49.459526
+FilipSH got data for: ; 2024-04-11 13:23:15.041740
+FilipSH got data for: S; 2024-04-11 13:23:16.073333
+FilipSH got data for: S; 2024-04-11 13:23:16.087388
+FilipSH got data for: Sc; 2024-04-11 13:23:16.866024
+FilipSH got data for: Sca; 2024-04-11 13:23:17.088656
+FilipSH got data for: Scalemem; 2024-04-11 13:23:19.522289
+FilipSH got data for: ; 2024-04-11 13:23:44.130521
+FilipSH got data for: U; 2024-04-11 13:23:46.656904
+FilipSH got data for: U; 2024-04-11 13:23:46.671449
+FilipSH got data for: Uni; 2024-04-11 13:23:47.083465
+FilipSH got data for: Uni; 2024-04-11 13:23:47.120687
+FilipSH got data for: Unis; 2024-04-11 13:23:47.489274
+FilipSH got data for: Unisc; 2024-04-11 13:23:47.644105
+FilipSH got data for: Unisca; 2024-04-11 13:23:47.862192
+FilipSH got data for: Uniscale; 2024-04-11 13:23:48.959853
+FilipSH updated data for: Uniscale; 2024-04-11 13:24:05.220403
+FilipSH got data for: Uniscale; 2024-04-11 13:24:08.313733
+FilipSH got data for: ; 2024-04-11 13:24:46.863270
+FilipSH got data for: S; 2024-04-11 13:24:47.590214
+FilipSH got data for: S; 2024-04-11 13:24:47.609812
+FilipSH got data for: Sc; 2024-04-11 13:24:48.595152
+FilipSH got data for: Sca; 2024-04-11 13:24:48.811090
+FilipSH got data for: Scal; 2024-04-11 13:24:49.230112
+FilipSH got data for: Scale; 2024-04-11 13:24:49.572438
+FilipSH got data for: Scalem; 2024-04-11 13:24:50.022022
+FilipSH got data for: Scaleme; 2024-04-11 13:24:50.299763
+FilipSH got data for: Scalemem; 2024-04-11 13:24:50.817553
+FilipSH got data for: u; 2024-04-11 13:25:00.549105
+FilipSH got data for: un; 2024-04-11 13:25:00.709720
+FilipSH got data for: Uniscale; 2024-04-11 13:25:01.950901
+FilipSH successfully logged in; 2024-04-11 13:42:01.642162
+FilipSH got data for: Scalemem; 2024-04-11 13:42:04.039720
+FilipSH got data for: ; 2024-04-11 13:42:15.098302
+FilipSH got data for: U; 2024-04-11 13:42:15.560735
+FilipSH got data for: U; 2024-04-11 13:42:15.578040
+FilipSH got data for: Un; 2024-04-11 13:42:15.808915
+FilipSH got data for: Uni; 2024-04-11 13:42:15.946168
+FilipSH got data for: Unis; 2024-04-11 13:42:16.633300
+FilipSH got data for: Unisl; 2024-04-11 13:42:17.186769
+FilipSH got data for: Unis; 2024-04-11 13:42:17.671357
+FilipSH got data for: Unisc; 2024-04-11 13:42:18.295297
+FilipSH got data for: Uniscal; 2024-04-11 13:42:18.499950
+FilipSH got data for: Uniscal; 2024-04-11 13:42:18.543115
+FilipSH got data for: Uniscale; 2024-04-11 13:42:18.692799
+FilipSH got data for: Uniscale; 2024-04-11 13:42:18.784417
+FilipSH got data for: ; 2024-04-11 13:42:23.481252
+FilipSH got data for: F; 2024-04-11 13:42:23.849265
+FilipSH got data for: F; 2024-04-11 13:42:23.889605
+FilipSH got data for: Fr; 2024-04-11 13:42:24.085946
+FilipSH got data for: Fron; 2024-04-11 13:42:24.213349
+FilipSH got data for: Fron; 2024-04-11 13:42:24.236745
+FilipSH got data for: Front; 2024-04-11 13:42:24.355705
+FilipSH got data for: Front Innovation; 2024-04-11 13:42:25.465337
+FilipSH successfully logged in; 2024-04-11 13:45:14.470987
+FilipSH got data for: Scalemem; 2024-04-11 13:45:17.478865
+FilipSH successfully logged in; 2024-04-11 13:47:29.356903
+FilipSH successfully logged in; 2024-04-11 13:50:06.381837
+FilipSH successfully logged in; 2024-04-11 13:53:26.327472
+FilipSH successfully logged out; 2024-04-11 13:54:01.392770
+FilipSH successfully logged in; 2024-04-11 13:54:07.278322
+FilipSH got data for: Sc; 2024-04-11 13:54:11.266380
+FilipSH got data for: Scalemem; 2024-04-11 13:54:13.187468
+FilipSH got data for: Front; 2024-04-11 13:54:17.974232
+FilipSH updated data for: Front; 2024-04-11 13:54:23.294392
+FilipSH got data for: Frot; 2024-04-11 13:54:27.157462
+FilipSH got data for: Front; 2024-04-11 13:54:28.994729
+FilipSH got data for: Front Innovation; 2024-04-11 13:54:38.076965
+FilipSH successfully logged in; 2024-04-11 14:05:57.573159
+FilipSH got data for: Scalemem; 2024-04-11 14:06:02.370539
+FilipSH successfully logged in; 2024-04-11 14:07:27.891644
+FilipSH got data for: Scalemem; 2024-04-11 14:07:33.033897
+FilipSH updated data for: Scalemem; 2024-04-11 14:07:40.151496
+FilipSH got data for: Scalemem; 2024-04-11 14:07:42.502243
+FilipSH successfully logged out; 2024-04-11 14:07:49.939709
+FilipSH successfully logged in; 2024-04-11 14:37:03.365488
+FilipSH got data for: Scalemem; 2024-04-11 14:37:46.817659
+FilipSH successfully logged in; 2024-04-11 14:50:53.110823
+FilipSH got data for: Scalemem; 2024-04-11 14:50:57.141242
+FilipSH successfully logged in; 2024-04-11 14:54:17.011654
+FilipSH got data for: Front Innovation; 2024-04-11 14:54:21.380400
+FilipSH successfully logged in; 2024-04-11 15:42:52.740418
+FilipSH got data for: Scalemem; 2024-04-11 15:42:57.944572
+FilipSH got data for: Front Innovation; 2024-04-11 15:43:05.927657
+FilipSH successfully logged out; 2024-04-11 15:43:12.760065
+FilipSH tried to log in, but is not verified; 2024-04-11 15:43:48.111691
+FilipSH successfully logged in; 2024-04-11 15:43:51.690733
+FilipSH got data for: Scalemem; 2024-04-11 15:43:56.413934
+FilipSH got data for: Front Innovation; 2024-04-11 15:44:03.174806
+FilipSH got data for: Scalemem; 2024-04-11 15:44:10.524261
+FilipSH successfully logged in; 2024-04-11 15:45:23.778549
+FilipSH got data for: Scalemem; 2024-04-11 15:45:27.229525
+FilipSH successfully logged in; 2024-04-11 15:46:35.993919
+FilipSH got data for: Scalemem; 2024-04-11 15:46:39.614903
+FilipSH got data for: Front Innovation; 2024-04-11 15:46:46.673439
+FilipSH successfully logged in; 2024-04-11 15:48:35.840179
+FilipSH got data for: Scalemem; 2024-04-11 15:48:38.230590
+FilipSH successfully logged in; 2024-04-11 15:50:28.822158
+FilipSH got data for: Scalemem; 2024-04-11 15:50:36.758394
+FilipSH got data for: Front Innovation; 2024-04-11 15:51:02.377039
+FilipSH successfully logged in; 2024-04-11 15:53:22.319808
+FilipSH got data for: Front Innovation; 2024-04-11 15:53:27.551204
+FilipSH got data for: Front Innovation; 2024-04-11 15:53:51.174230
+FilipSH got data for: Front Innovation; 2024-04-11 15:54:21.267515
+FilipSH successfully logged in; 2024-04-11 15:57:45.319551
+FilipSH got data for: Scalemem; 2024-04-11 15:57:48.207253
+FilipSH got data for: Scalemem; 2024-04-11 15:58:36.715744
+FilipSH successfully logged in; 2024-04-11 16:00:12.817586
+FilipSH got data for: Front Innovation'; 2024-04-11 16:00:17.384111
+FilipSH got data for: Front Innovation; 2024-04-11 16:00:18.677519
+FilipSH successfully logged in; 2024-04-11 16:04:09.538161
+FilipSH got data for: Front Innovation; 2024-04-11 16:04:12.031473
+FilipSH successfully logged in; 2024-04-11 16:05:37.513025
+FilipSH got data for: Front Innovation; 2024-04-11 16:05:40.800948
+FilipSH successfully logged in; 2024-04-11 16:10:45.968438
+FilipSH got data for: Front Innovation; 2024-04-11 16:10:50.170489
+FilipSH successfully logged in; 2024-04-11 16:13:17.515719
+FilipSH got data for: Front Innovation; 2024-04-11 16:13:21.163227
+FilipSH successfully logged out; 2024-04-11 16:13:56.459990
+FilipSH successfully logged in; 2024-04-11 16:14:03.928914
+FilipSH got data for: Front Innovation; 2024-04-11 16:14:48.568243
+FilipSH got data for: Front Innovation; 2024-04-11 16:15:10.489125
+FilipSH successfully logged in; 2024-04-11 16:18:27.372603
+FilipSH got data for: Front Innovation; 2024-04-11 16:18:31.146896
+FilipSH successfully logged in; 2024-04-11 16:25:30.611283
+FilipSH got data for: Front Innovation; 2024-04-11 16:25:34.861996
+FilipSH got data for: Front Innovation; 2024-04-11 16:25:58.925188
+FilipSH successfully logged in; 2024-04-11 16:45:18.211327
+FilipSH got data for: Scalemem; 2024-04-11 16:45:20.327479
+FilipSH got data for: Front Innovation; 2024-04-11 16:45:24.880436
+FilipSH got data for: Front Innovation; 2024-04-11 16:45:26.216857
+FilipSH successfully logged out; 2024-04-11 16:45:30.565026
+FilipSH successfully logged in; 2024-04-11 16:45:35.494745
+FilipSH got data for: Front Innovation; 2024-04-11 16:45:42.343391
+FilipSH successfully logged out; 2024-04-11 16:46:39.880512
+FilipSH successfully logged in; 2024-04-11 16:46:55.149630
+FilipSH got data for: Front Innovation; 2024-04-11 16:46:57.461906
+FilipSH successfully logged in; 2024-04-11 16:51:10.453563
+FilipSH got data for: Front Innovation; 2024-04-11 16:51:13.348596
+FilipSH successfully logged in; 2024-04-11 16:52:36.296414
+FilipSH got data for: Front Innovation; 2024-04-11 16:52:39.043016
+FilipSH successfully logged in; 2024-04-11 16:54:02.761316
+FilipSH got data for: Front Innovation; 2024-04-11 16:54:06.236204
+FilipSH successfully logged in; 2024-04-11 16:55:06.314570
+FilipSH got data for: Front Innovation; 2024-04-11 16:55:09.293138
+FilipSH successfully logged in; 2024-04-11 16:55:28.980743
+FilipSH got data for: Front Innovation; 2024-04-11 16:55:31.246888
+FilipSH successfully logged in; 2024-04-11 16:55:54.329096
+FilipSH got data for: Front Innovation; 2024-04-11 16:55:57.450050
+FilipSH got data for: Front Innovation; 2024-04-11 16:56:44.489104
+FilipSH successfully logged in; 2024-04-11 16:57:26.883853
+FilipSH got data for: Front Innovation; 2024-04-11 16:57:29.742337
+FilipSH got data for: Front Innovation; 2024-04-11 16:57:50.545635
+FilipSH got data for: Front Innovation; 2024-04-11 16:58:13.445918
+FilipSH got data for: Front Innovation; 2024-04-11 16:58:27.374160
+FilipSH got data for: Front Innovation; 2024-04-11 16:58:44.770329
+FilipSH tried to log in, but is not verified; 2024-04-11 16:59:56.493263
+FilipSH successfully logged in; 2024-04-11 17:00:01.904272
+FilipSH got data for: Front Innovation; 2024-04-11 17:00:06.126216
+FilipSH successfully logged in; 2024-04-11 17:01:03.797560
+FilipSH got data for: Front Innovation; 2024-04-11 17:01:05.843758
+FilipSH successfully logged in; 2024-04-11 17:01:30.352282
+FilipSH got data for: Scalemem; 2024-04-11 17:01:33.455714
+FilipSH successfully logged in; 2024-04-11 17:02:33.810381
+FilipSH got data for: Front Innovation; 2024-04-11 17:02:46.127346
+FilipSH successfully logged in; 2024-04-11 17:04:06.155708
+FilipSH got data for: Front Innovation; 2024-04-11 17:04:08.500879
+FilipSH successfully logged in; 2024-04-11 17:18:06.284205
+FilipSH successfully logged in; 2024-04-11 17:19:42.695881
+FilipSH got data for: Front Innovation; 2024-04-11 17:19:44.800496
+FilipSH successfully logged in; 2024-04-11 17:20:56.930444
+FilipSH got data for: Front Innovation; 2024-04-11 17:21:00.449593
+FilipSH updated data for: Front Innovation; 2024-04-11 17:21:04.835113
+FilipSH got data for: Front Innovation; 2024-04-11 17:21:08.071593
+FilipSH got data for: Scalemem; 2024-04-11 17:21:21.421311
+FilipSH updated data for: Scalemem; 2024-04-11 17:21:33.721176
+FilipSH got data for: Scalemem; 2024-04-11 17:21:36.156794
+FilipSH successfully logged in; 2024-04-11 17:24:56.354659
+FilipSH got data for: Front Innovation; 2024-04-11 17:24:59.314794
+FilipSH updated data for: Front Innovation; 2024-04-11 17:25:41.169957
+FilipSH got data for: Front Innovation; 2024-04-11 17:25:43.459173
+FilipSH got data for: Scalemem; 2024-04-11 17:25:48.420330
+FilipSH successfully logged in; 2024-04-11 17:27:42.889625
+FilipSH got data for: Scalemem; 2024-04-11 17:27:47.593629
+FilipSH successfully logged in; 2024-04-11 17:30:36.000361
+FilipSH got data for: Scalemem; 2024-04-11 17:30:39.432444
+FilipSH got data for: Front Innovation; 2024-04-11 17:31:34.227614
+FilipSH successfully logged in; 2024-04-11 17:35:06.063873
+FilipSH got data for: Scalemem; 2024-04-11 17:35:08.716092
+FilipSH successfully logged in; 2024-04-11 17:36:36.086735
+FilipSH got data for: Scalemem; 2024-04-11 17:36:37.816030
+FilipSH updated data for: Scalemem; 2024-04-11 17:36:44.977676
+FilipSH got data for: Scalemem; 2024-04-11 17:36:47.051575
+FilipSH updated data for: Scalemem; 2024-04-11 17:37:39.100662
+FilipSH got data for: Scalemem; 2024-04-11 17:37:42.484585
+FilipSH updated data for: Scalemem; 2024-04-11 17:37:54.561824
+FilipSH got data for: Scalemem; 2024-04-11 17:37:58.347841
+FilipSH updated data for: Scalemem; 2024-04-11 17:38:49.741383
+FilipSH got data for: Scalemem; 2024-04-11 17:38:52.814239
+FilipSH successfully logged in; 2024-04-11 17:40:11.217960
+FilipSH got data for: Scalemem; 2024-04-11 17:40:13.724039
+FilipSH got data for: Front Innovation; 2024-04-11 17:40:31.790441
+FilipSH successfully logged in; 2024-04-12 10:51:50.351184
+FilipSH got data for: Front Innovation; 2024-04-12 10:51:53.734480
+FilipSH got data for: Scalemem; 2024-04-12 10:52:00.490654
+FilipSH got data for: Uniscale; 2024-04-12 10:52:15.151317
+FilipSH updated data for: Uniscale; 2024-04-12 10:52:39.364297
+FilipSH got data for: Uniscale; 2024-04-12 10:52:42.835328
+FilipSH successfully logged out; 2024-04-12 10:53:26.431606
+FilipSH successfully logged in; 2024-04-12 11:42:54.154612
+FilipSH got data for: Scalemem; 2024-04-12 11:43:29.231577
+FilipSH updated data for: Scalemem; 2024-04-12 11:43:43.472165
+FilipSH got data for: Scalemem; 2024-04-12 11:43:46.082513
+FilipSH updated data for: Scalemem; 2024-04-12 11:44:03.591285
+FilipSH got data for: Scalemem; 2024-04-12 11:44:05.752368
+FilipSH successfully logged in; 2024-04-12 11:51:41.652147
+FilipSH successfully logged in; 2024-04-12 11:52:39.749367
+FilipSH got data for: Scalemem; 2024-04-12 11:52:45.619171
+FilipSH successfully logged out; 2024-04-12 11:52:53.087847
+FilipSH successfully logged in; 2024-04-12 11:55:30.877002
+FilipSH got data for: Scalemem; 2024-04-12 11:55:33.251701
+FilipSH updated data for: Scalemem; 2024-04-12 11:55:59.796909
+FilipSH successfully logged in; 2024-04-12 12:09:34.836049
+FilipSH got data for: Scalemem; 2024-04-12 12:09:38.201847
+FilipSH updated data for: Scalemem; 2024-04-12 12:09:55.565340
+FilipSH successfully logged in; 2024-04-12 12:13:16.610074
+FilipSH got data for: Scalemem; 2024-04-12 12:13:18.842337
+FilipSH successfully logged out; 2024-04-12 12:13:21.205057
+FilipSH successfully logged in; 2024-04-12 12:13:50.812708
+FilipSH got data for: Scalemem; 2024-04-12 12:13:53.374886
+FilipSH updated data for: Scalemem; 2024-04-12 12:14:11.103347
+FilipSH tried to log in, but is not verified; 2024-04-12 12:17:02.190519
+FilipSH successfully logged in; 2024-04-12 12:17:07.425534
+FilipSH got data for: Scalemem; 2024-04-12 12:17:13.543129
+FilipSH successfully logged in; 2024-04-12 12:23:53.191423
+FilipSH got data for: Scalemem; 2024-04-12 12:23:57.963937
+FilipSH updated data for: Scalemem; 2024-04-12 12:24:15.247683
+FilipSH got data for: Scalemem; 2024-04-12 12:24:18.136250
+FilipSH updated data for: Scalemem; 2024-04-12 12:24:36.962758
+FilipSH got data for: Scalemem; 2024-04-12 12:24:39.668239
+FilipSH got data for: Front Innovation; 2024-04-12 12:24:58.282146
+FilipSH updated data for: Front Innovation; 2024-04-12 12:25:11.607172
+FilipSH got data for: Front Innovation; 2024-04-12 12:25:14.098789
+FilipSH successfully logged out; 2024-04-12 12:25:24.979078
+FilipSH successfully logged in; 2024-04-12 12:25:31.083116
+FilipSH got data for: Front Innovation; 2024-04-12 12:25:36.655993
+FilipSH got data for: S; 2024-04-12 12:25:42.056324
+FilipSH got data for: S; 2024-04-12 12:25:46.276762
+FilipSH got data for: Uniscale; 2024-04-12 12:25:50.676431
+FilipSH updated data for: Uniscale; 2024-04-12 12:26:12.008090
+FilipSH got data for: Uniscale; 2024-04-12 12:26:17.610804
+FilipSH successfully logged in; 2024-04-12 12:30:08.607698
+FilipSH successfully logged in; 2024-04-12 12:33:07.552422
+FilipSH got data for: Scalemem; 2024-04-12 12:33:11.324864
+FilipSH successfully logged out; 2024-04-12 12:33:17.472508
+FilipSH tried to log in, but is not verified; 2024-04-12 12:55:03.503938
+FilipSH tried to log in, but is not verified; 2024-04-12 13:48:28.252671
+FilipSH successfully logged in; 2024-04-12 13:48:35.144747
+FilipSH got data for: Scalemem; 2024-04-12 13:49:06.878479
+FilipSH updated data for: Scalemem; 2024-04-12 13:49:24.289579
+FilipSH got data for: Scalemem; 2024-04-12 13:49:27.123322
+FilipSH got data for: Front Innovation; 2024-04-12 13:49:42.927470
+FilipSH successfully logged out; 2024-04-12 13:49:47.623824
+FilipSH successfully logged in; 2024-04-12 13:50:48.459874
+ha@frontinnovation.no successfully logged in; 2024-04-12 13:51:00.392736
+ha@frontinnovation.no got data for: Scalemem; 2024-04-12 13:51:10.665226
+FilipSH successfully logged in; 2024-04-12 15:03:42.772058
+FilipSH got data for: Scalemem; 2024-04-12 15:03:45.254631
+FilipSH got data for: Front Innovation; 2024-04-12 15:03:57.481567
+FilipSH successfully logged out; 2024-04-12 15:03:59.879393
+FilipSH successfully logged in; 2024-04-12 23:52:06.654517
+FilipSH got data for: Scalemem; 2024-04-12 23:52:09.854913
+FilipSH tried to log in, but is not verified; 2024-04-12 23:54:30.363361
+FilipSH successfully logged in; 2024-04-12 23:54:34.646467
+FilipSH got data for: Front Innovation; 2024-04-12 23:54:39.972226
+FilipSH got data for: Scalemem; 2024-04-12 23:55:22.689892
+FilipSH successfully logged out; 2024-04-12 23:55:37.448260
+FilipSH successfully logged in; 2024-04-12 23:55:58.392181
+FilipSH got data for: Scalemem; 2024-04-12 23:56:03.658641
+FilipSH updated data for: Scalemem; 2024-04-12 23:56:40.648482
+FilipSH got data for: Scalemem; 2024-04-12 23:56:43.502207
+FilipSH successfully logged out; 2024-04-12 23:56:50.910128
+FilipSH successfully logged in; 2024-04-12 23:59:32.792127
+ha@frontinnovation.no successfully logged in; 2024-04-12 23:59:49.762942
+ha@frontinnovation.no got data for: Scalemem; 2024-04-12 23:59:54.816789
+FilipSH got data for: Scalemem; 2024-04-12 23:59:54.845236
+ha@frontinnovation.no updated data for: Scalemem; 2024-04-13 00:00:16.417697
+FilipSH updated data for: Scalemem; 2024-04-13 00:00:18.023813
+FilipSH got data for: Scalemem; 2024-04-13 00:00:23.193160
+ha@frontinnovation.no got data for: Scalemem; 2024-04-13 00:00:28.107216
+FilipSH successfully logged out; 2024-04-13 00:00:38.390096
+ha@frontinnovation.no successfully logged out; 2024-04-13 00:00:40.954251
+FilipSH successfully logged in; 2024-04-13 00:24:03.114877
+FilipSH got data for: Front Innovation; 2024-04-13 00:24:10.685066
+FilipSH successfully logged in; 2024-04-13 00:33:29.377644
+FilipSH successfully logged in; 2024-04-13 00:34:21.394196
+FilipSH got data for: Front Innovation; 2024-04-13 00:34:28.583945
+FilipSH successfully logged in; 2024-04-13 00:36:40.486918
+FilipSH successfully logged in; 2024-04-13 00:42:55.585079
+FilipSH got data for: Scalemem; 2024-04-13 00:42:58.181181
+FilipSH successfully logged out; 2024-04-13 00:43:31.936784
+FilipSH successfully logged in; 2024-04-13 00:43:42.069594
+FilipSH got data for: Front Innovation; 2024-04-13 00:43:47.958769
+FilipSH successfully logged in; 2024-04-13 00:48:32.691295
+FilipSH got data for: Scalemem; 2024-04-13 00:48:37.659365
+FilipSH successfully logged in; 2024-04-13 00:53:41.738002
+FilipSH successfully logged in; 2024-04-13 01:06:19.547235
+FilipSH got data for: Scalemem; 2024-04-13 01:06:21.826943
+FilipSH tried to log in, but is not verified; 2024-04-13 01:10:59.392263
+FilipSH successfully logged in; 2024-04-13 01:11:04.171561
+FilipSH successfully logged in; 2024-04-14 14:33:15.836551
+FilipSH got data for: Scalemem; 2024-04-14 14:33:20.524421
+FilipSH got data for: Front Innovation; 2024-04-14 14:33:34.564539
+FilipSH successfully logged in; 2024-04-14 15:11:41.615931
+FilipSH got data for: Scalemem; 2024-04-14 15:11:58.303710
+FilipSH updated data for: Scalemem; 2024-04-14 15:12:36.045309
+FilipSH got data for: Scalemem; 2024-04-14 15:12:38.437496
+FilipSH got data for: Front Innovation; 2024-04-14 15:12:48.701264
+FilipSH successfully logged in; 2024-04-14 15:32:36.990468
+FilipSH successfully logged in; 2024-04-14 15:41:39.302118
+FilipSH successfully logged in; 2024-04-14 15:53:36.751591
+FilipSH tried to log in, but is not verified; 2024-04-14 17:10:03.427051
+FilipSH successfully logged in; 2024-04-14 17:10:08.851477
+FilipSH got data for: Scalemem; 2024-04-14 17:10:12.069810
+FilipSH successfully logged in; 2024-04-15 11:38:37.190325
+FilipSH got data for: Scalemem; 2024-04-15 11:38:39.398021
+FilipSH successfully logged out; 2024-04-15 11:39:05.605269
+FilipSH successfully logged in; 2024-04-15 13:56:27.808436
+FilipSH got data for: Front Innovation; 2024-04-15 13:56:31.172235
+FilipSH got data for: Scalemem; 2024-04-15 13:56:36.142851
+FilipSH got data for: scalemem; 2024-04-15 13:56:51.998645
+FilipSH got data for: Uniscale; 2024-04-15 13:57:02.656696
+FilipSH got data for: scalemem; 2024-04-15 13:57:13.135138
+FilipSH got data for: scalemem; 2024-04-15 13:57:18.897453
+FilipSH got data for: Front Innovation; 2024-04-15 13:57:26.709088
+FilipSH got data for: Scalemem; 2024-04-15 13:57:55.986611
+FilipSH successfully logged in; 2024-04-15 14:01:41.155062
+FilipSH successfully logged in; 2024-04-15 14:08:19.740379
+FilipSH got data for: Scalemem; 2024-04-15 14:08:22.341380
+FilipSH got data for: Front Innovation; 2024-04-15 14:08:28.036394
+FilipSH got data for: Uniscale; 2024-04-15 14:08:31.509799
+FilipSH got data for: Scalemem; 2024-04-15 14:08:36.781249
+FilipSH got data for: Front Innovation; 2024-04-15 14:08:42.962274
+FilipSH got data for: Uniscale; 2024-04-15 14:08:46.780418
+FilipSH updated data for: Uniscale; 2024-04-15 14:09:05.287600
+FilipSH got data for: Uniscale; 2024-04-15 14:09:09.112364
+FilipSH got data for: Scalemem; 2024-04-15 14:09:16.178788
+FilipSH updated data for: Scalemem; 2024-04-15 14:09:22.205964
+FilipSH got data for: Scalemem; 2024-04-15 14:09:24.637539
+FilipSH successfully logged in; 2024-04-15 14:15:51.684442
+FilipSH successfully logged in; 2024-04-15 14:16:34.145307
+FilipSH got data for: Scalemem; 2024-04-15 14:17:16.443471
+FilipSH updated data for: Scalemem; 2024-04-15 14:17:27.882890
+FilipSH got data for: Scalemem; 2024-04-15 14:17:29.758797
+FilipSH successfully logged in; 2024-04-15 14:31:17.442963
+FilipSH successfully logged in; 2024-04-15 14:44:20.958080
+FilipSH tried to log in, but is not verified; 2024-04-15 14:49:14.054459
+FilipSH successfully logged in; 2024-04-15 14:49:18.012874
+FilipSH successfully logged in; 2024-04-15 14:59:00.056326
+FilipSH got data for: Scalemem; 2024-04-15 14:59:04.375528
+FilipSH got data for: Front Innovation; 2024-04-15 14:59:32.491719
+FilipSH got data for: Scalemem; 2024-04-15 14:59:37.671785
+FilipSH got data for: Unsicalem; 2024-04-15 14:59:43.706394
+FilipSH got data for: Unsicale; 2024-04-15 14:59:45.959978
+FilipSH got data for: Uniscale; 2024-04-15 14:59:50.641816
+FilipSH got data for: Front Innovation; 2024-04-15 14:59:57.863285
+FilipSH updated data for: Front Innovation; 2024-04-15 15:00:15.868448
+FilipSH got data for: Front Innovation; 2024-04-15 15:00:18.279397
+FilipSH successfully logged out; 2024-04-15 15:00:20.141914
+FilipSH successfully logged in; 2024-04-15 15:12:54.502069
+FilipSH got data for: Uniscale; 2024-04-15 15:13:05.995875
+FilipSH successfully logged in; 2024-04-15 15:15:25.240416
+FilipSH successfully logged in; 2024-04-15 15:17:35.554657
+FilipSH got data for: Scalemem; 2024-04-15 15:18:20.226462
+FilipSH successfully logged in; 2024-04-15 15:20:12.692505
+FilipSH got data for: Scalemem; 2024-04-15 15:20:15.323416
+FilipSH got data for: Front Innovation; 2024-04-15 15:20:19.584012
+FilipSH successfully logged in; 2024-04-15 15:30:14.036335
+FilipSH successfully logged in; 2024-04-15 15:38:15.588997
+FilipSH successfully logged in; 2024-04-15 15:40:14.118115
+FilipSH got data for: Scalemem; 2024-04-15 15:40:18.622679
+FilipSH updated data for: Scalemem; 2024-04-15 15:40:28.831531
+FilipSH got data for: Scalemem; 2024-04-15 15:40:31.372109
+FilipSH got data for: Scalemem; 2024-04-15 15:40:36.874525
+FilipSH got data for: Scalemem; 2024-04-15 15:40:39.006165
+FilipSH got data for: Scalemem; 2024-04-15 15:40:40.734840
+FilipSH updated data for: Scalemem; 2024-04-15 15:41:20.341865
+FilipSH successfully logged in; 2024-04-15 15:44:38.841393
+FilipSH got data for: Scalemem; 2024-04-15 15:44:42.355933
+FilipSH successfully logged out; 2024-04-15 15:44:53.233493
+FilipSH successfully logged in; 2024-04-15 15:45:32.001411
+FilipSH successfully logged in; 2024-04-15 16:03:49.212350
+FilipSH successfully logged in; 2024-04-15 16:09:19.147747
+FilipSH successfully logged in; 2024-04-15 16:12:44.612420
+FilipSH got data for: Scalemem; 2024-04-15 16:12:55.599715
+FilipSH successfully logged in; 2024-04-15 16:15:41.515049
+FilipSH got data for: Scalemem; 2024-04-15 16:16:37.877282
+FilipSH successfully logged in; 2024-04-16 13:19:30.031632
+FilipSH got data for: Scalemem; 2024-04-16 13:19:33.349162
+FilipSH successfully logged out; 2024-04-16 13:20:43.615187
+FilipSH successfully logged in; 2024-04-16 13:30:07.182087
+FilipSH successfully logged in; 2024-04-16 13:45:48.736954
+FilipSH got data for: Scalemem; 2024-04-16 13:45:51.943096
+FilipSH successfully logged in; 2024-04-17 09:11:55.546866
+FilipSH got data for: Scalemem; 2024-04-17 09:11:59.258487
+FilipSH updated data for: Scalemem; 2024-04-17 09:12:07.735847
+FilipSH got data for: Scalemem; 2024-04-17 09:12:10.137091
+FilipSH successfully logged out; 2024-04-17 09:12:16.292242
+FilipSH successfully logged in; 2024-04-17 11:46:16.481442
+FilipSH successfully logged out; 2024-04-17 11:46:19.480436
+FilipSH successfully logged in; 2024-04-17 13:32:02.387655
+FilipSH got data for: Scalemem; 2024-04-17 13:32:25.579313
+FilipSH successfully logged in; 2024-04-17 13:33:30.119196
+FilipSH got data for: Scalemem; 2024-04-17 13:33:32.093870
+FilipSH updated data for: Scalemem; 2024-04-17 13:33:36.904471
+FilipSH got data for: Scalemem; 2024-04-17 13:33:39.120840
+FilipSH successfully logged out; 2024-04-17 13:33:56.440848
+FilipSH successfully logged in; 2024-04-17 13:34:02.022317
+FilipSH got data for: Uniscale; 2024-04-17 13:34:05.753729
+FilipSH successfully logged out; 2024-04-17 13:34:39.069155
+FilipSH successfully logged in; 2024-04-17 13:34:45.353164
+FilipSH successfully logged in; 2024-04-18 13:46:20.686246
+FilipSH got data for: Scalemem; 2024-04-18 13:46:23.055880
+FilipSH successfully logged out; 2024-04-18 13:46:25.740313
+ha@frontinnovation.no successfully logged in; 2024-04-18 13:46:32.857857
+ha@frontinnovation.no got data for: Uniscale; 2024-04-18 13:46:36.352673
+ha@frontinnovation.no updated data for: Uniscale; 2024-04-18 13:46:42.476921
+ha@frontinnovation.no got data for: Uniscale; 2024-04-18 13:46:44.540369
+ha@frontinnovation.no updated data for: Uniscale; 2024-04-18 13:47:02.758477
+ha@frontinnovation.no got data for: Uniscale; 2024-04-18 13:47:05.000703
+ha@frontinnovation.no successfully logged out; 2024-04-18 13:47:16.502631
+FilipSH successfully logged in; 2024-04-19 09:15:55.460083
+FilipSH got data for: Scalemem; 2024-04-19 09:15:57.967614
+FilipSH updated data for: Scalemem; 2024-04-19 09:16:15.279983
+FilipSH got data for: Scalemem; 2024-04-19 09:16:17.617165
+FilipSH successfully logged out; 2024-04-19 09:16:43.707989
+FilipSH successfully logged in; 2024-04-25 11:43:36.341860
+FilipSH got data for: Scalemem; 2024-04-25 11:43:41.946244
+FilipSH updated data for: Scalemem; 2024-04-25 11:44:25.493433
+FilipSH got data for: Scalemem; 2024-04-25 11:44:28.200278
+FilipSH successfully logged out; 2024-04-25 11:44:34.009993
+FilipSH successfully logged in; 2024-04-26 11:07:37.059350
+FilipSH successfully logged in; 2024-04-26 11:15:00.962628
+FilipSH successfully logged in; 2024-04-26 11:20:17.327226
+FilipSH successfully logged in; 2024-04-26 11:31:46.613282
+FilipSH got data for: Scalemem; 2024-04-26 11:31:50.555594
+FilipSH updated data for: Scalemem; 2024-04-26 11:32:02.202373
+FilipSH got data for: Scalemem; 2024-04-26 11:32:05.579097
+FilipSH got data for: Front Innovation; 2024-04-26 11:32:14.138734
+FilipSH updated data for: Front Innovation; 2024-04-26 11:32:32.942341
+FilipSH got data for: Front Innovation; 2024-04-26 11:32:35.967632
+FilipSH updated data for: Front Innovation; 2024-04-26 11:32:46.706674
+FilipSH got data for: Front Innovation; 2024-04-26 11:32:49.530517
+FilipSH got data for: Uniscale; 2024-04-26 11:32:55.510970
+FilipSH successfully logged out; 2024-04-26 11:32:59.656885
+FilipSH successfully logged in; 2024-04-26 11:55:48.620248
+FilipSH got data for: Scalemem; 2024-04-26 11:55:51.641396
+FilipSH successfully logged in; 2024-04-26 12:00:09.239033
+FilipSH got data for: Scalemem; 2024-04-26 12:00:11.810766
+FilipSH updated data for: Scalemem; 2024-04-26 12:00:23.270224
+FilipSH got data for: Scalemem; 2024-04-26 12:00:25.983479
+FilipSH got data for: Front Innovation; 2024-04-26 12:00:37.400836
+FilipSH updated data for: Front Innovation; 2024-04-26 12:00:47.327940
+FilipSH got data for: Front Innovation; 2024-04-26 12:00:50.047413
+FilipSH got data for: Uniscale; 2024-04-26 12:00:55.686073
+FilipSH successfully logged in; 2024-04-26 12:36:42.260748
+FilipSH successfully logged in; 2024-04-26 12:39:36.647356
+FilipSH tried to log in, but is not verified; 2024-04-26 12:43:47.870177
+FilipSH successfully logged in; 2024-04-26 12:43:51.525911
+FilipSH successfully logged in; 2024-04-26 12:53:00.648728
+FilipSH got data for: Testing; 2024-04-26 12:53:52.263434
+FilipSH got data for: Testing; 2024-04-26 12:53:56.684064
+FilipSH got data for: Scalemem; 2024-04-26 12:54:20.660250
+FilipSH got data for: Testing; 2024-04-26 12:54:24.831234
+FilipSH got data for: Scalemem; 2024-04-26 12:55:41.684138
+FilipSH successfully logged out; 2024-04-26 12:55:45.133161
+FilipSH successfully logged in; 2024-04-26 12:57:17.855303
+FilipSH got data for: Scalemem; 2024-04-26 12:57:23.744727
+FilipSH got data for: Testing; 2024-04-26 12:57:28.985133
+FilipSH successfully logged in; 2024-04-26 12:58:57.773571
+FilipSH got data for: Testing; 2024-04-26 12:59:01.915381
+FilipSH got data for: Testing; 2024-04-26 12:59:50.341117
+FilipSH successfully logged in; 2024-04-26 13:03:39.760443
+FilipSH got data for: Scalemem; 2024-04-26 13:03:42.338321
+FilipSH successfully logged in; 2024-04-26 13:08:35.281184
+FilipSH got data for: Filip; 2024-04-26 13:09:13.626183
+FilipSH tried to log in, but is not verified; 2024-04-26 13:10:41.023808
+FilipSH successfully logged in; 2024-04-26 13:10:45.032243
+FilipSH got data for: Filip; 2024-04-26 13:10:50.209993
+FilipSH successfully logged in; 2024-04-26 13:13:34.961256
+FilipSH got data for: Filip; 2024-04-26 13:13:40.614142
+FilipSH successfully logged in; 2024-04-26 13:17:07.984792
+FilipSH successfully logged in; 2024-04-26 13:54:33.096212
+FilipSH got data for: Scalemem; 2024-04-26 13:54:35.948219
+FilipSH got data for: Filip; 2024-04-26 13:55:05.929587
+FilipSH successfully logged in; 2024-04-26 14:14:35.722289
+FilipSH got data for: Filip; 2024-04-26 14:15:48.757354
+FilipSH updated data for: Filip; 2024-04-26 14:15:58.711810
+FilipSH got data for: Filip; 2024-04-26 14:16:04.215741
+FilipSH got data for: Testing; 2024-04-26 14:16:41.716724
+FilipSH successfully logged in; 2024-04-26 14:27:51.604442
+FilipSH successfully logged in; 2024-04-26 14:36:39.894521
+FilipSH got data for: Scalemem; 2024-04-26 14:36:43.496861
+ha@frontinnovation.no successfully logged in; 2024-04-26 14:38:08.879063
+ha@frontinnovation.no got data for: Scalemem; 2024-04-26 14:38:28.572045
+FilipSH tried to log in, but is not verified; 2024-04-26 14:39:47.699115
+FilipSH tried to log in, but is not verified; 2024-04-26 14:39:51.506601
+FilipSH successfully logged in; 2024-04-26 14:39:56.645386
+FilipSH got data for: Filip Services; 2024-04-26 14:40:03.678691
+FilipSH got data for: Filip Services; 2024-04-26 14:40:06.144070
+FilipSH got data for: Filip Services; 2024-04-26 14:40:37.764443
+FilipSH successfully logged in; 2024-04-26 14:43:12.521162
+FilipSH got data for: Front Innovation; 2024-04-26 14:43:20.111945
+FilipSH got data for: Scalemem; 2024-04-26 14:43:59.884824
+FilipSH got data for: f; 2024-04-26 14:44:28.981738
+FilipSH got data for: Nordic Horizon; 2024-04-26 14:46:02.128735
+FilipSH updated data for: Nordic Horizon; 2024-04-26 14:46:28.938632
+FilipSH got data for: Nordic Horizon; 2024-04-26 14:46:37.286542
+FilipSH got data for: Nordic Horizon; 2024-04-26 14:47:53.352124
+FilipSH got data for: Nordic Horizon; 2024-04-26 14:48:52.406279
+FilipSH successfully logged out; 2024-04-26 14:49:25.576785
+FilipSH successfully logged in; 2024-04-26 14:52:14.713009
+FilipSH tried to log in, but is not verified; 2024-04-26 14:58:13.953461
+FilipSH successfully logged in; 2024-04-26 14:58:18.204311
+FilipSH got data for: 777777777; 2024-04-26 14:58:27.879494
+FilipSH got data for: Front Innovation; 2024-04-26 14:58:35.427056
+FilipSH got data for: Nordic Horizon; 2024-04-26 14:58:41.907410
+FilipSH updated data for: Nordic Horizon; 2024-04-26 14:58:52.159798
+FilipSH got data for: Nordic Horizon; 2024-04-26 14:58:58.448655
+FilipSH successfully logged out; 2024-04-26 14:59:03.931145
+FilipSH successfully logged in; 2024-04-26 20:22:24.161856
+FilipSH successfully logged out; 2024-04-26 20:22:56.711703
+msa@frontinnovation.no successfully logged in; 2024-04-26 20:33:31.387489
+msa@frontinnovation.no got data for: Salmotrace; 2024-04-26 20:33:42.134110
+msa@frontinnovation.no got data for: Salmotrace; 2024-04-26 20:33:43.629688
+msa@frontinnovation.no got data for: Front Innovation; 2024-04-26 20:34:12.336304
+msa@frontinnovation.no got data for: 666666666; 2024-04-26 20:34:26.876293
+msa@frontinnovation.no got data for: 666666666; 2024-04-26 20:34:28.624680
+msa@frontinnovation.no got data for: 66666666; 2024-04-26 20:34:33.102268
+msa@frontinnovation.no got data for: 66666666; 2024-04-26 20:35:17.059379
+msa@frontinnovation.no got data for: 666666666; 2024-04-26 20:35:29.462473
+msa@frontinnovation.no got data for: 666666666; 2024-04-26 20:35:31.219045
+msa@frontinnovation.no got data for: 6666666; 2024-04-26 20:35:36.558522
+msa@frontinnovation.no got data for: 66666666; 2024-04-26 20:35:48.149110
+msa@frontinnovation.no got data for: 66666666; 2024-04-26 20:36:12.895362
+FilipSH successfully logged in; 2024-04-26 20:41:05.939036
+FilipSH got data for: Front Innovation; 2024-04-26 20:41:08.928298
+FilipSH got data for: 913777948; 2024-04-26 20:41:32.833200
+FilipSH updated data for: Front Innovation; 2024-04-26 20:42:09.335844
+FilipSH got data for: 913777948; 2024-04-26 20:42:16.734012
+FilipSH successfully logged out; 2024-04-26 20:42:18.457374
+msa@frontinnovation.no successfully logged in; 2024-04-26 20:42:40.403439
+msa@frontinnovation.no got data for: 913777948; 2024-04-26 20:43:04.532690
+msa@frontinnovation.no updated data for: 913777948; 2024-04-26 20:44:03.638531
+msa@frontinnovation.no got data for: 913777948; 2024-04-26 20:44:20.851653
+msa@frontinnovation.no updated data for: 913777948; 2024-04-26 20:44:45.021616
+msa@frontinnovation.no got data for: 913777948; 2024-04-26 20:44:54.585821
+FilipSH successfully logged in; 2024-04-26 20:46:42.184745
+FilipSH got data for: 913777948; 2024-04-26 20:46:50.902743
+FilipSH successfully logged in; 2024-04-26 21:29:41.426654
+FilipSH got data for: 913777948; 2024-04-26 21:29:47.903058
+FilipSH updated data for: 913777948; 2024-04-26 21:29:56.513838
+FilipSH got data for: 913777948; 2024-04-26 21:30:01.037807
+FilipSH updated data for: 913777948; 2024-04-26 21:32:32.652980
+FilipSH updated data for: 913777948; 2024-04-26 21:32:44.974236
+FilipSH successfully logged out; 2024-04-26 21:32:45.830841
+FilipSH successfully logged in; 2024-04-26 21:32:49.089137
+FilipSH got data for: Front Innovation; 2024-04-26 21:32:52.152988
+FilipSH got data for: 913777948; 2024-04-26 21:32:58.569801
+FilipSH updated data for: 913777948; 2024-04-26 21:33:06.225718
+FilipSH got data for: Front Innovation; 2024-04-26 21:33:09.572136
+FilipSH updated data for: 913777948; 2024-04-26 21:35:35.201766
+FilipSH successfully logged in; 2024-04-26 21:43:09.055828
+FilipSH got data for: 913777948; 2024-04-26 21:43:24.979203
+FilipSH updated data for: 913777948; 2024-04-26 21:43:41.946854
+FilipSH got data for: 913777948; 2024-04-26 21:43:47.639401
+FilipSH updated data for: 913777948; 2024-04-26 21:45:29.534398
+FilipSH successfully logged out; 2024-04-26 21:45:31.915039
+FilipSH successfully logged in; 2024-04-26 21:45:35.908144
+FilipSH got data for: 913777948; 2024-04-26 21:45:44.530646
+FilipSH updated data for: 913777948; 2024-04-26 21:45:53.905590
+FilipSH got data for: 913777948; 2024-04-26 21:45:58.539145
+FilipSH got data for: Front Innovation; 2024-04-26 21:46:03.900930
+FilipSH updated data for: Front Innovation; 2024-04-26 21:46:10.476040
+FilipSH got data for: Front Innovation; 2024-04-26 21:46:12.731266
+FilipSH got data for: 913777948; 2024-04-26 21:46:17.928198
+FilipSH successfully logged in; 2024-04-29 11:03:37.616390
+FilipSH got data for: Scalemem; 2024-04-29 11:03:42.967884
+FilipSH got data for: Front Innovation; 2024-04-29 11:03:52.291192
+FilipSH got data for: Front Innovation; 2024-04-29 11:03:59.938618
+FilipSH updated data for: Front Innovation; 2024-04-29 11:04:09.602262
+FilipSH got data for: Front Innovation; 2024-04-29 11:04:12.754654
+FilipSH got data for: 913777948; 2024-04-29 11:05:10.178575
+FilipSH updated data for: 913777948; 2024-04-29 11:05:22.798554
+FilipSH got data for: 913777948; 2024-04-29 11:05:28.397477
+FilipSH got data for: 913777948; 2024-04-29 11:05:56.668380
+FilipSH successfully logged in; 2024-04-29 12:12:15.944849
+FilipSH got data for: Scalemem; 2024-04-29 12:12:45.282533
+FilipSH got data for: scalemem; 2024-04-29 12:12:53.702153
+FilipSH got data for: scalememas; 2024-04-29 12:13:41.228033
+FilipSH got data for: scalememas; 2024-04-29 12:13:43.815504
+FilipSH successfully logged out; 2024-04-29 12:15:46.932619
+FilipSH successfully logged in; 2024-04-29 12:15:55.101388
+FilipSH got data for: scalememas; 2024-04-29 12:16:01.320976
+FilipSH successfully logged in; 2024-04-29 12:20:37.090771
+FilipSH got data for: scalememas; 2024-04-29 12:20:43.274777
+FilipSH successfully logged in; 2024-04-29 12:35:27.213714
+FilipSH got data for: Scalemem; 2024-04-29 12:35:31.887839
+FilipSH successfully logged out; 2024-04-29 12:36:19.971966
+FilipSH successfully logged in; 2024-04-29 12:36:23.938420
+FilipSH got data for: Scalemem; 2024-04-29 12:36:27.701925
+FilipSH got data for: Scalemem; 2024-04-29 12:36:59.709077
+FilipSH got data for: Front innovation; 2024-04-29 12:37:20.282659
+FilipSH got data for: afaeronmolleras; 2024-04-29 12:38:50.034006
+FilipSH got data for: 923138846; 2024-04-29 12:39:41.911473
+FilipSH got data for: 10xconsultingas; 2024-04-29 12:40:20.496932
+FilipSH got data for: 10xconsultingas; 2024-04-29 12:40:33.825026
+FilipSH updated data for: 10xconsultingas; 2024-04-29 12:40:46.120981
+FilipSH got data for: 10xconsultingas; 2024-04-29 12:40:53.786464
+FilipSH successfully logged in; 2024-04-29 12:55:56.848718
+FilipSH got data for: scalemem; 2024-04-29 12:56:02.038289
+FilipSH got data for: scalemem; 2024-04-29 12:56:04.972212
+FilipSH successfully logged in; 2024-04-29 13:16:03.088021
+FilipSH got data for: Scalemem; 2024-04-29 13:16:06.473260
+FilipSH got data for: Scalemem; 2024-04-29 13:17:39.198817
+FilipSH updated data for: Scalemem; 2024-04-29 13:17:55.705618
+FilipSH got data for: Scalemem; 2024-04-29 13:17:59.092490
+FilipSH updated data for: Scalemem; 2024-04-29 13:18:04.063002
+FilipSH got data for: Front Innovation; 2024-04-29 13:18:09.754881
+FilipSH got data for: Front Innovation; 2024-04-29 13:18:58.568205
+FilipSH successfully logged in; 2024-04-29 13:22:17.003694
+FilipSH got data for: Front Innovation; 2024-04-29 13:22:21.268572
+FilipSH got data for: Front Innovation; 2024-04-29 13:23:31.337941
+FilipSH successfully logged in; 2024-04-29 13:29:42.288105
+FilipSH got data for: 913777948; 2024-04-29 13:29:46.836707
+FilipSH successfully logged out; 2024-04-29 13:30:09.196957
+FilipSH successfully logged in; 2024-04-29 13:32:29.969520
+FilipSH got data for: Scalemem; 2024-04-29 13:32:38.724793
+FilipSH got data for: Front Innovation; 2024-04-29 13:32:54.397106
+FilipSH added new company: Front Innovation; 2024-04-29 13:33:17.189122
+FilipSH got data for: Front Innovation; 2024-04-29 13:33:20.949864
+FilipSH got data for: Front Innovation; 2024-04-29 13:33:50.899558
+FilipSH successfully logged in; 2024-04-29 13:40:40.219050
+FilipSH got data for: Front Innovation; 2024-04-29 13:40:44.807905
+FilipSH updated data for: Front Innovation; 2024-04-29 13:41:10.921483
+FilipSH got data for: Front Innovation; 2024-04-29 13:41:22.948108
+msa@frontinnovation.no successfully logged in; 2024-04-29 13:46:38.402900
+msa@frontinnovation.no got data for: 945688823; 2024-04-29 13:46:43.188320
+msa@frontinnovation.no successfully logged in; 2024-04-29 13:47:08.574767
+msa@frontinnovation.no got data for: 945688823; 2024-04-29 13:47:31.343652
+msa@frontinnovation.no got data for: conteinertech; 2024-04-29 13:48:02.405034
+msa@frontinnovation.no got data for: 991282882; 2024-04-29 13:48:08.882389
+msa@frontinnovation.no got data for: Oceaneering; 2024-04-29 13:48:23.461796
+vv@frontinnovation.no successfully logged in; 2024-04-29 14:49:32.910427
+vv@frontinnovation.no got data for: 921 692 250; 2024-04-29 14:50:16.085097
+vv@frontinnovation.no got data for: 921 692 250; 2024-04-29 14:50:18.713972
+vv@frontinnovation.no got data for: 989 999 060; 2024-04-29 14:50:32.419913
+vv@frontinnovation.no got data for: 989 999 060; 2024-04-29 14:50:33.606475
+vv@frontinnovation.no got data for: 989999060; 2024-04-29 14:50:38.115278
+vv@frontinnovation.no successfully logged in; 2024-04-29 14:52:13.444099
+mp@frontinnovation.no tried to log in, but is not verified; 2024-04-29 14:53:05.888827
+mp@frontinnovation.no tried to log in, but is not verified; 2024-04-29 14:53:14.026620
+mp@frontinnovation.no tried to log in, but is not verified; 2024-04-29 14:53:34.212777
+mp@frontinnovation.no successfully logged in; 2024-04-29 14:53:50.050964
+mp@frontinnovation.no got data for: aibel; 2024-04-29 14:53:55.355215
+mp@frontinnovation.no got data for: bikefinder; 2024-04-29 14:54:06.099329
+mp@frontinnovation.no got data for: front innovation; 2024-04-29 14:54:19.162434
+vv@frontinnovation.no tried to log in, but is not verified; 2024-04-29 14:54:21.705771
+vv@frontinnovation.no successfully logged in; 2024-04-29 14:54:27.411358
+vv@frontinnovation.no got data for: Isealate as; 2024-04-29 14:54:33.834076
+mp@frontinnovation.no updated data for: front innovation; 2024-04-29 14:54:43.970533
+mp@frontinnovation.no got data for: front; 2024-04-29 14:54:48.456115
+mp@frontinnovation.no got data for: front innovation; 2024-04-29 14:54:52.304850
+mp@frontinnovation.no successfully logged out; 2024-04-29 14:56:00.997505
+FilipSH successfully logged in; 2024-04-29 15:03:46.803081
+FilipSH got data for: Scalemem; 2024-04-29 15:03:49.549462
+FilipSH got data for: Front Innovation; 2024-04-29 15:04:00.843934
+FilipSH successfully logged out; 2024-04-29 15:04:13.983647
+fn@frontinnovation.no tried to log in, but is not verified; 2024-04-29 15:28:23.269176
+fn@frontinnovation.no tried to log in, but is not verified; 2024-04-29 15:28:44.317947
+fn@frontinnovation.no successfully logged in; 2024-04-29 15:42:05.054791
+fn@frontinnovation.no successfully logged out; 2024-04-29 15:42:09.601827
+fn@frontinnovation.no successfully logged in; 2024-04-29 15:42:23.369925
+fn@frontinnovation.no got data for: Front Innovation; 2024-04-29 15:42:27.735303
+fn@frontinnovation.no successfully logged out; 2024-04-29 15:43:07.933193
+fs@frontinnovation.no successfully logged in; 2024-04-30 08:23:41.447650
+fs@frontinnovation.no got data for: Scalemem; 2024-04-30 08:23:44.666398
+fs@frontinnovation.no got data for: Uniscale; 2024-04-30 08:23:52.447101
+fs@frontinnovation.no got data for: Club united; 2024-04-30 08:24:00.537159
+fs@frontinnovation.no got data for: ECIT club united; 2024-04-30 08:24:14.869331
+fs@frontinnovation.no added new company: Club united; 2024-04-30 08:25:53.500315
+fs@frontinnovation.no got data for: club united; 2024-04-30 08:25:59.673440
+fs@frontinnovation.no got data for: 917 100 179; 2024-04-30 08:26:25.164559
+fs@frontinnovation.no got data for: 917 100 179; 2024-04-30 08:26:27.377855
+fs@frontinnovation.no got data for: 917100179; 2024-04-30 08:26:31.251522
+fs@frontinnovation.no successfully logged in; 2024-04-30 08:40:05.203064
+fs@frontinnovation.no got data for: 917100179; 2024-04-30 08:40:10.689805
+fs@frontinnovation.no got data for: 917100179; 2024-04-30 08:40:31.958940
+fs@frontinnovation.no got data for: 917100179; 2024-04-30 08:41:14.731570
+fs@frontinnovation.no updated data for: 917100179; 2024-04-30 08:41:19.910477
+fs@frontinnovation.no got data for: 917100179; 2024-04-30 08:41:23.325232
+fs@frontinnovation.no got data for: frontinnovation; 2024-04-30 08:41:40.861713
+fs@frontinnovation.no got data for: 913777946; 2024-04-30 08:41:58.462260
+fs@frontinnovation.no got data for: 913777948; 2024-04-30 08:42:44.992835
+fs@frontinnovation.no updated data for: front innovation; 2024-04-30 08:43:13.593518
+fs@frontinnovation.no got data for: 913777948; 2024-04-30 08:43:19.254142
+fs@frontinnovation.no updated data for: 913777948; 2024-04-30 08:43:26.642225
+fs@frontinnovation.no got data for: frontinnovation; 2024-04-30 08:43:32.810582
+fs@frontinnovation.no got data for: frontinnanonirwgtoin; 2024-04-30 08:43:44.443299
+fs@frontinnovation.no got data for: frontinavotion; 2024-04-30 08:43:51.204539
+fs@frontinnovation.no successfully logged out; 2024-04-30 08:43:59.265760
+fs@frontinnovation.no successfully logged in; 2024-04-30 09:09:57.063778
+fs@frontinnovation.no got data for: nordichorizon; 2024-04-30 09:10:04.334677
+er@frontinnovation.no tried to log in, but is not verified; 2024-04-30 10:28:08.674378
+er@frontinnovation.no successfully logged in; 2024-04-30 12:11:03.253992
+er@frontinnovation.no successfully logged out; 2024-04-30 12:11:49.311076
+er@frontinnovation.no tried to log in, but is not verified; 2024-04-30 12:12:01.965229
+er@frontinnovation.no tried to log in, but is not verified; 2024-04-30 12:12:12.929025
+er@frontinnovation.no tried to log in, but is not verified; 2024-04-30 12:12:26.957430
+er@frontinnovation.no successfully logged in; 2024-04-30 12:12:43.354805
+er@frontinnovation.no successfully logged out; 2024-04-30 12:13:02.712765
+er@frontinnovation.no successfully logged in; 2024-04-30 12:13:17.872417
+er@frontinnovation.no got data for: frontinnovation; 2024-04-30 12:13:23.859480
+er@frontinnovation.no successfully logged out; 2024-04-30 12:13:27.539644
+ha@frontinnovation.no successfully logged in; 2024-06-19 12:31:40.716351
+ha@frontinnovation.no got data for: scalemem; 2024-06-19 12:31:46.810722
+ha@frontinnovation.no updated data for: scalemem; 2024-06-19 12:32:04.866584
+ha@frontinnovation.no got data for: scalemem; 2024-06-19 12:32:08.083993
+ha@frontinnovation.no got data for: scalememm; 2024-06-19 12:32:22.937927
+ha@frontinnovation.no got data for: frontinnovation; 2024-06-19 12:32:35.406787
+fs@frontinnovation.no tried to log in, but is not verified; 2024-07-29 20:32:44.796399
+ha@frontinnovation.no successfully logged in; 2024-07-29 20:32:55.944376
+ha@frontinnovation.no got data for: frontinnovation; 2024-07-29 20:33:12.268696
+ha@frontinnovation.no updated data for: frontinnovation; 2024-07-29 20:33:28.025937
+ha@frontinnovation.no got data for: frontinnovation; 2024-07-29 20:33:31.247175
+ha@frontinnovation.no successfully logged out; 2024-07-29 20:34:20.328419
+ha@frontinnovation.no successfully logged in; 2024-07-30 16:33:32.139639
+ha@frontinnovation.no got data for: frontinnovation; 2024-07-30 16:33:44.614969
+ha@frontinnovation.no got data for: scalemem; 2024-07-30 16:34:09.543569
+ha@frontinnovation.no got data for: uniscale; 2024-07-30 16:34:13.508763
